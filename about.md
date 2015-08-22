@@ -2,6 +2,7 @@
 layout: page
 title: Was ist Freifunk
 permalink: /about/
+order: 10
 ---
 
 Freie Netze werden von immer mehr Menschen in Eigenregie aufgebaut und gewartet. Jeder Nutzer im freifunk-Netz stellt seinen WLAN-Router für den Datentransfer der anderen Teilnehmer zur Verfügung. Im Gegenzug kann er oder sie ebenfalls Daten, wie zum Beispiel Text, Musik und Filme über das interne freifunk-Netz übertragen oder über von Teilnehmern eingerichtete Dienste im Netz Chatten, Telefonieren und gemeinsam Onlinegames spielen. Dafür nutzen wir Mesh Netzwerke.

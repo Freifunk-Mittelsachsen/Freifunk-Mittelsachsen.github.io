@@ -19,7 +19,8 @@
         <div class="collapse navbar-toggleable-sm" id="exCollapsingNavbar2">
           <div class="container">
             <ul class="nav navbar-nav ff-nav">
-              {% for page in site.pages %}
+              {% assign pages = site.pages | sort: "order" %}
+              {% for page in pages %}
                 {% if page.title %}
                   <li class="nav-item" >
                     <a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
