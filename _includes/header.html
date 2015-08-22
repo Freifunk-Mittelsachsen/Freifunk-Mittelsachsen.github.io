@@ -1,0 +1,34 @@
+<header class="site-header m-y">
+    <div class="container">
+      <a class="hidden-sm-down site-title" href="{{ site.baseurl }}/">
+        <img class="fflogo" src="{{ site.baseurl}}/img/ffms-plain.svg" />
+        {{ site.title }}
+      </a>
+    </div>
+      <nav class="navbar navbar-default bg-faded">
+        <a class="hidden-md-up navbar-brand site-title" href="{{ site.baseurl }}/">
+          <img class="fflogo" src="{{ site.baseurl}}/img/ffms-plain.svg" />
+          {{ site.title }}
+        </a>
+
+
+        <button class="navbar-toggler hidden-md-up pull-right clearfix" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar2">
+          &#9776;
+        </button>
+
+        <div class="collapse navbar-toggleable-sm" id="exCollapsingNavbar2">
+          <div class="container">
+            <ul class="nav navbar-nav ff-nav">
+              {% for page in site.pages %}
+                {% if page.title %}
+                  <li class="nav-item" >
+                    <a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </div>
+</header>
