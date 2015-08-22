@@ -1,0 +1,53 @@
+---
+---
+@import "bootstrap-v4/bootstrap";
+
+
+.site-title {
+  font-family: "Dosis";
+  color: #111;
+  &:hover {
+    text-decoration: none;
+    color: #111;
+
+  }
+}
+
+@media (max-width: map-get($grid-breakpoints,"md")) {
+  .site-title {
+    font-size: 1rem;
+  }
+  .fflogo {
+    width: 50px;
+  }
+
+  .navbar-brand {
+    float: none;
+    display: inline-block;
+  }
+  .navbar-brand > img {
+    display: inline;
+  }
+
+  .navbar-nav .nav-item + .nav-item  {
+    margin: 0px;
+  }
+
+  .ff-nav .nav-item {
+    float: none;
+  }
+
+}
+@media (min-width: map-get($grid-breakpoints,"md")) {
+
+  .site-title {
+    font-size: 3rem;
+  }
+  .navbar-brand {
+    padding: 0px;
+  }
+  .fflogo {
+    height: 110px;
+    padding: 10px;
+  }
+}

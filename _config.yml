@@ -1,0 +1,13 @@
+# Site settings
+title: Freifunk Waldheim
+email: kontakt@freifunk-waldheim.de
+description: > # this means to ignore newlines until "baseurl:"
+    Freifunk Waldheim - kostenloses und selbstorganisiertes Netzwerk in
+    Waldheim und Umgebung
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.freifunk-waldheim.de" # the base hostname & protocol for your site
+twitter_username: freifunkmtl
+github_username:  Freifunk-Mittelsachsen
+
+# Build settings
+markdown: kramdown
