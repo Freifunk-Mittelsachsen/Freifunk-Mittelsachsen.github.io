@@ -8,8 +8,10 @@ order: 20
 # Mitmachen ganz einfach
 Was Du brauchst ist eigentlich erst mal nur ein einfachen Router. Dann brauchst Du noch die entsprechende Software für deinen Router. Ein paar Kabel sind auch nicht schlecht und natürlich brauchst Du auch etwas Zeit.
 Grob zusammengefasst war es das schon.
+
 ## Details
 Natürlich gibt es noch ein paar Details die Du beachten musst damit auch alles funktioniert und harmoniert
+
 ### Router
 Für welche Router können wir garantieren, dass  unsere Software darauf läuft?
 Hier eine Liste der getesteten Router.
@@ -212,10 +214,15 @@ Hier eine Liste der getesteten Router.
   </tr>
 </table>
 
-## Software / Freifunk-Firmware
+### Software / Freifunk-Firmware
 
 Damit Dein Router mit unseren Routern sprechen kann brauchst du die Freifunk Firmware. Die kannst du
 hier herunter laden »link hier«…
+
+### Strom
+
+Zudem wird etwas Strom benötigt. Das sind bei den Meisten Routern so 5-10 Watt.
+
 
 
 <a title="CC BY-SA Freifunk Dresden" href="http://creativecommons.org/licenses/by-sa/3.0/">
