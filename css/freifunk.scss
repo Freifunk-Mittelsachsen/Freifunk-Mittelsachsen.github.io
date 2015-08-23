@@ -3,15 +3,44 @@
 @import "bootstrap-v4/bootstrap";
 
 
+.fa.fa-wifi.fa-bg {
+  color: #e6faff;
+  font-size: 50rem;
+  position: fixed;
+  z-index: 0;
+}
+
+
+
+
+.site-header,
+.site-footer,
+.site-content {
+  z-index: 10;
+  position: relative;
+}
+
+
+
 .site-title {
-  font-family: "Dosis";
-  color: #111;
-  &:hover {
+  font-family: "Source Sans Pro";
+  font-weight: 700;
+  text-shadow: 1px 1px 1px, 2px 2px 9px #eee;
+  color: $brand-primary;
+  &:hover,
+  &:focus,
+  &:active {
     text-decoration: none;
-    color: #111;
+    color: $brand-primary;
 
   }
 }
+
+.site-footer .fa {
+  font-size: 1.5rem;
+}
+
+
 
 @media (max-width: map-get($grid-breakpoints,"md")) {
   .site-title {
@@ -36,8 +65,8 @@
   .ff-nav .nav-item {
     float: none;
   }
-
 }
+
 @media (min-width: map-get($grid-breakpoints,"md")) {
 
   .site-title {
