@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+title: Oft gestellte Fragen - FAQ
 permalink: /faq/
 order: 30
 ---
