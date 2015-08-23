@@ -3,6 +3,13 @@
 @import "bootstrap-v4/bootstrap";
 
 
+.fa.fa-wifi.fa-bg {
+  color: #e6faff;
+  font-size: 50rem;
+  position: fixed;
+  z-index: 0;
+}
+
 .site-title {
   font-family: "Dosis";
   color: #111;
@@ -50,4 +57,11 @@
     height: 110px;
     padding: 10px;
   }
+}
+
+.site-header,
+.site-footer,
+.site-content {
+  z-index: 10;
+  position: relative;
 }
