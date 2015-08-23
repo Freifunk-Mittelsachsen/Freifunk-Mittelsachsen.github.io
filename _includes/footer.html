@@ -14,9 +14,9 @@
         <ul class="social-media-list list-unstyled">
           {% if site.github_username %}
           <li>
-            <a href="https://github.com/{{ site.github_username }}">
+            <a title="GitHub" href="https://github.com/{{ site.github_username }}">
               <i class="fa fa-github"></i>
-
+              GitHub:
               <span class="username">{{ site.github_username }}</span>
             </a>
           </li>
@@ -24,14 +24,25 @@
 
           {% if site.twitter_username %}
           <li>
-            <a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="fa fa-twitter">
-              </span>
-
+            <a title="Twitter"href="https://twitter.com/{{ site.twitter_username }}">
+              <i class="fa fa-twitter"></i>
+              Twitter:
               <span class="username">{{ site.twitter_username }}</span>
             </a>
           </li>
           {% endif %}
+          <li>
+            <a title="Chat mit uns" href="http://freifunk-waldheim:7778">
+              <i class="fa fa-comment"></i>
+              Chat:
+            </a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com/groups/FreifunkMittelsachsen/">
+              <i class="fa fa-facebook"></i>
+              Facebook
+            </a>
+          </li>
         </ul>
       </div>
 

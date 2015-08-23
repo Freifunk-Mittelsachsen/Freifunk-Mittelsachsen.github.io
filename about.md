@@ -19,3 +19,11 @@ Freifunk Waldheim - das bedeutet:
 -   Internet ohne das es Dich was kostet
 -   Internet ohne das jemand wissen will wer Du bist
 -   Internet ohne das jemand mit hört
+
+### Weiterführende Literatur
+Wer mehr erfahren möchte kann dieses kostenlose E-Book lesen.
+
+
+<a href="http://www.mabb.de/files/content/document/Publikationen/Freifunk-Broschuere/freifunk_publikation_webversion_2.Auflage.pdf.pdf" title="Feie Netze E-Book PDF">
+  <img alt="freienetze ebook cover" src="{{ "/assets/freienetze-ebook-cover.jpg" | prepend: site.baseurl }}">
+</a>
