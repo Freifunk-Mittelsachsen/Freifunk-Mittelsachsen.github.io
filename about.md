@@ -11,15 +11,11 @@ Viele stellen zudem ihren Internetzugang zur Verfügung und ermöglichen anderen
 
 Lokale Communities stellen die auf eigene Bedürfnisse angepasste Software dann auf ihren Websites zur Verfügung. In Dörfern und Städten gibt es immer mehr Freifunk-Gruppen, die sich regelmässig treffen.
 
-Die freifunk-Community ist Teil einer globalen Bewegung für freie Infrastrukturen und offene Funkfrequenzen.
-
-Unsere Vision ist die Demokratisierung der Kommunikationsmedien durch freie Netzwerke. Die praktische Umsetzung dieser Idee nehmen freifunk-Communities in der ganzen Welt in Angriff.
-
 Und auch du kannst bei Freifunk mitmachen! Wie, das erfährst du hier!
 
 Freifunk Waldheim - das bedeutet:
 
+-   Internet bei dem Du selbst mitmachen kannst
 -   Internet ohne das es Dich was kostet
 -   Internet ohne das jemand wissen will wer Du bist
 -   Internet ohne das jemand mit hört
--   Internet bei dem Du selbst mitmachen kannst
