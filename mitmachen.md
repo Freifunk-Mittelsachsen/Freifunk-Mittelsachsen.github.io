@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Mitmachen
+title: Mitmachen ganz einfach
 permalink: /mitmachen/
 order: 20
 ---
 
-# Mitmachen ganz einfach
-Was Du brauchst ist eigentlich erst mal nur ein einfachen Router. Dann brauchst Du noch die entsprechende Software für deinen Router. Ein paar Kabel sind auch nicht schlecht und natürlich brauchst Du auch etwas Zeit.
+Was Du brauchst ist eigentlich erst mal nur ein einfacher Router.
+Dann brauchst Du noch die entsprechende kostenlose Software für deinen Router.
+Ein paar Kabel sind auch nicht schlecht.
+Zu guter letzt ist natürlich noch etwas Zeit von Nöten.
 Grob zusammengefasst war es das schon.
 
 ## Details
-Natürlich gibt es noch ein paar Details die Du beachten musst damit auch alles funktioniert und harmoniert
+Natürlich gibt es noch ein paar Details die Du beachten musst damit auch alles funktioniert und harmoniert.
+Darauf wird im folgenden eingegangen.
 
 ### Router
 Für welche Router können wir garantieren, dass  unsere Software darauf läuft?
