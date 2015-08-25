@@ -77,6 +77,25 @@ Hier eine Liste der getesteten Router.
     <td> v1 </td>
     <td> 2,4 GHz Richtfunk, 11dBi MiMo, Outdoor, 60° Öffnungswinkel, Power over Ethernet + Injector, Zwei LAN Anschlüsse </td>
   </tr>
+  <tr>
+    <td> Nanobeam M2  </td>
+    <td> Ubiquiti </td>
+    <td> ca 80&#8364; </td>
+    <td> 64 </td>
+    <td> 8</td>
+    <td> v1 </td>
+    <td> 2,4 GHz Richtfunk, 13dBi Gain, Outdoor, Power over Ethernet + Injector </td>
+  </tr>
+
+  <tr>
+    <td> Nanobeam M5-16 und M5-19 </td>
+    <td> Ubiquiti </td>
+    <td> ca 60-90&#8364; </td>
+    <td> 64/128 </td>
+    <td> 8</td>
+    <td> v1 </td>
+    <td> 5 GHz Richtfunk, 16dBi Gain / 19dDi Gain, Outdoor, Power over Ethernet + Injector </td>
+  </tr>
   </tbody>
 </table>
 
