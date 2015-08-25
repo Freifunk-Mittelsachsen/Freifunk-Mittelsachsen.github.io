@@ -20,7 +20,7 @@ Für welche Router können wir garantieren, dass  unsere Software darauf läuft?
 Hier eine Liste der getesteten Router.
 
 <table class="table">
-
+<thead>
   <tr>
     <th> Geräte-Name</th>
     <th> Hersteller</th>
@@ -28,8 +28,10 @@ Hier eine Liste der getesteten Router.
     <th> RAM    </th>
     <th> ROM    </th>
     <th> Version    </th>
-    <th > Beschreibung </th>
+    <th> Beschreibung </th>
   </tr>
+  </thead>
+  </tbody>
   <tr>
     <td> TL-WR841N </td>
     <td> TP-Link</td>
@@ -58,58 +60,13 @@ Hier eine Liste der getesteten Router.
     <td> mehr Speicher, USB Anschlüsse, auch 5 GHZ, 2 abnehmbare Antennen</td>
   </tr>
   <tr>
-    <td> TL-WDR4300 </td>
-    <td> TP-Link </td>
-    <td> 45&#8364; </td>
-    <td> 128  </td>
-    <td> 8 </td>
-    <td> v1  </td>
-    <td> mehr Speicher, USB Anschlüsse, auch 5 GHZ, 3 abnehmbare Antennen </td>
-  </tr>
-  <tr>
-    <td> TL-MR3020 </td>
-    <td> TP-Link </td>
-    <td> 30&#8364;  </td>
-    <td> 32 </td>
-    <td> 4 </td>
-    <td> vx </td>
-    <td> Reiseminirouter für USB UMTS-Modul (nicht von Freifunk unterstützt), USB Anschluss, interne Antenne </td>
-  </tr>
-  <tr>
-    <td> Nanostation M2 loco </td>
+    <td> Nanostation M5  </td>
     <td> Ubiquiti </td>
-    <td> 40&#8364; </td>
+    <td> ca 80&#8364; </td>
     <td> 32 </td>
-    <td> 8 </td>
+    <td> 8</td>
     <td> v1 </td>
-    <td> 2,4 GHz Richtfunk, Outdoor, 60° Öffnungswinkel, Power over Ethernet + Injector </td>
-  </tr>
-  <tr>
-    <td> Rocket M2 </td>
-    <td> Ubiquiti</td>
-    <td> 80&#8364; </td>
-    <td> 64 </td>
-    <td> </td>
-    <td> </td>
-    <td> 2 Antennenanschlüsse, 2,4 GHz Outdoor, benötigt Antennen, Power over Ethernet + Injector </td>
-  </tr>
-  <tr>
-    <td> TL-WR1043 </td>
-    <td> TP-Link</td>
-    <td> 40-50&#8364; </td>
-    <td> 32 </td>
-    <td> 8 </td>
-    <td>v1 </td>
-    <td> mehr Flash-Speicher, USB Anschlüsse, 3 abnehmbare Antennen </td>
-  </tr>
-  <tr>
-    <td> TL-WR1043  </td>
-    <td> TP-Link </td>
-    <td> 40-50&#8364; </td>
-    <td> 64 </td>
-    <td > 8 </td>
-    <td>v2 </td>
-    <td> mehr Flash- und System-Speicher, USB Anschlüsse, 3 abnehmbare Antennen, schnellste CPU </td>
+    <td> 5 GHz Richtfunk, 16dBi MiMo, Outdoor, 60° Öffnungswinkel, Power over Ethernet + Injector, Zwei LAN Anschlüsse </td>
   </tr>
   <tr>
     <td> Nanostation M2  </td>
@@ -120,15 +77,7 @@ Hier eine Liste der getesteten Router.
     <td> v1 </td>
     <td> 2,4 GHz Richtfunk, 11dBi MiMo, Outdoor, 60° Öffnungswinkel, Power over Ethernet + Injector, Zwei LAN Anschlüsse </td>
   </tr>
-  <tr>
-    <td> Linksys WRT160N  </td>
-    <td> Cisco </td>
-    <td>&#160;?; </td>
-    <td> 32 </td>
-    <td> 4 </td>
-    <td> </td>
-    <td> 2 abnehmbare Antennen  </td>
-  </tr>
+  </tbody>
 </table>
 
 ### Software / Freifunk-Firmware
