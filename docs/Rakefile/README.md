@@ -8,17 +8,17 @@ Please note that the code is intentionally "messy" and quite un-DRY so that'll b
 
 ### Tasks
 
-    rake post["Title"]
-	rake draft["Title"]
+    rake post\["Title"\]
+	rake draft\["Title"\]
 	rake publish
-    rake page["Title"]
-        rake page["Title","Path/to/folder"]
+    rake page\["Title"\]
+        rake page\["Title","Path/to/folder"\]
     rake build
     rake watch
-        rake watch[number]
-        rake watch["drafts"]
+        rake watch\[number\]
+        rake watch\["drafts"\]
     rake preview
-    rake deploy["Commit message"]
+    rake deploy\["Commit message"\]
     rake transfer
 
 `rake post["Title"]` creates a new post in the `_posts` directory by reading the default template file, adding the title you've specified and generating a filename by using the current date and the title.
