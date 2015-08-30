@@ -8,6 +8,19 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.freifunk-waldheim.de" # the base hostname & protocol for your site
 twitter_username: freifunkmtl
 github_username:  Freifunk-Mittelsachsen
+exclude:  [Rakefile,  docs/*]
 
 # Build settings
 markdown: kramdown
+
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+
+editor: gvim
+
+git:
+  branch: master
