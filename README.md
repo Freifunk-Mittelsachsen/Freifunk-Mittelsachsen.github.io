@@ -1,2 +1,2 @@
-# Freifunk-Waldheim.github.io
-Freifunk-Waldheim Github Page
+# Freifunk-Mittelsachsen.github.io
+Freifunk-Mittelsachsen Github Page
