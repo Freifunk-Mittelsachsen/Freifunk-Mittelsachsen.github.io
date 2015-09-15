@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mitmachen ganz einfach
+title: Mitmachen
 permalink: /mitmachen/
 order: 20
 ---
@@ -45,6 +45,26 @@ Hier eine Liste der getesteten Router.
   </tr>
   <tr>
     <td> <a href="http://www.amazon.de/dp/B0019EQ1RW">TL-WR841ND</a></td>
+    <td> TP-Link</td>
+    <td> 20-29&#8364;</td>
+    <td> 32</td>
+    <td> 4</td>
+    <td> v1-v9</td>
+    <td> <i>D</i> steht für <i>detachable</i>, der Router besitzt also abnehmbare Antennen.</td>
+  </tr>
+  <tr>
+    <td> TL-WR842N</td>
+    <td> TP-Link</td>
+    <td> 16-20&#8364; </td>
+    <td> 32 </td>
+    <td> 4 </td>
+    <td> v1-v2 </td>
+    <td> Im Unterschied zum Modell mit der Endung <i>ND</i> mit nicht abnehmbaren Antennen ausgestattet.
+         <i>Leider ist das Gerät bei Amazon nicht verfügbar ... vielleicht aber woanders</i>
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="http://www.amazon.de/dp/B006E04T9I">TL-WR842ND</a></td>
     <td> TP-Link</td>
     <td> 20-29&#8364;</td>
     <td> 32</td>
@@ -108,8 +128,13 @@ Hier eine Liste der getesteten Router.
 
 ### Software / Freifunk-Firmware
 
-Damit Dein Router mit unseren Routern sprechen kann brauchst du die Freifunk Firmware. Die kannst du
-hier herunter laden: Link steht bald zur Verfügung
+Damit Dein Router mit unseren Routern sprechen kann brauchst du die aktuelle Firmware für Freifunk Waldheim. Die kannst du
+hier herunter laden: <a href="http://firmware.freifunk-waldheim.de/waldheim">Archiv aktuelle Firmware Freifunk Waldheim</a>
+
+**Was soll ich downloaden?**
+Hast du einen Router der noch die Firmware vom Hersteller drauf hat, dann nimm bitte die entsprechende Firmware aus dem **&bdquo;factory&ldquo;** Ordner.
+Möchtest du ein Update machen, dann nimm bitte die Firmware aus dem **&bdquo;sysupgrade&ldquo;** Ordner.
+Bist du dir unsicher kannst du uns gern kontaktieren.
 
 ### Strom
 
