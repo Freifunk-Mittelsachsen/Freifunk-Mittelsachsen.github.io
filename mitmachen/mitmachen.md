@@ -53,6 +53,26 @@ Hier eine Liste der getesteten Router.
     <td> <i>D</i> steht für <i>detachable</i>, der Router besitzt also abnehmbare Antennen.</td>
   </tr>
   <tr>
+    <td> TL-WR842N</td>
+    <td> TP-Link</td>
+    <td> 16-20&#8364; </td>
+    <td> 32 </td>
+    <td> 4 </td>
+    <td> v1-v2 </td>
+    <td> Im Unterschied zum Modell mit der Endung <i>ND</i> mit nicht abnehmbaren Antennen ausgestattet.
+         <i>Leider ist das Gerät bei Amazon nicht verfügbar ... vielleicht aber woanders</i>
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="http://www.amazon.de/dp/B006E04T9I">TL-WR842ND</a></td>
+    <td> TP-Link</td>
+    <td> 20-29&#8364;</td>
+    <td> 32</td>
+    <td> 4</td>
+    <td> v1-v9</td>
+    <td> <i>D</i> steht für <i>detachable</i>, der Router besitzt also abnehmbare Antennen.</td>
+  </tr>
+  <tr>
     <td> <a href="http://www.amazon.de/dp/B008HV2KU2">TL-WDR3600</a> </td>
     <td> TP-Link </td>
     <td> 40&#8364; </td>
