@@ -128,8 +128,13 @@ Hier eine Liste der getesteten Router.
 
 ### Software / Freifunk-Firmware
 
-Damit Dein Router mit unseren Routern sprechen kann brauchst du die Freifunk Firmware. Die kannst du
-hier herunter laden: Link steht bald zur Verfügung
+Damit Dein Router mit unseren Routern sprechen kann brauchst du die aktuelle Firmware für Freifunk Waldheim. Die kannst du
+hier herunter laden: <a href="http://firmware.freifunk-waldheim.de/waldheim">Archiv aktuelle Firmware Freifunk Waldheim</a>
+
+**Was soll ich downloaden?**
+Hast du einen Router der noch die Firmware vom Hersteller drauf hat, dann nimm bitte die entsprechende Firmware aus dem **&bdquo;factory&ldquo;** Ordner.
+Möchtest du ein Update machen, dann nimm bitte die Firmware aus dem **&bdquo;sysupgrade&ldquo;** Ordner.
+Bist du dir unsicher kannst du uns gern kontaktieren.
 
 ### Strom
 
