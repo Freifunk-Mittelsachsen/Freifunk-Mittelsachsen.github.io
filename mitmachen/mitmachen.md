@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mitmachen ganz einfach
+title: Mitmachen
 permalink: /mitmachen/
 order: 20
 ---
