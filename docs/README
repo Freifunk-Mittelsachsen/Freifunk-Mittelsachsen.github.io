@@ -1,0 +1,12 @@
+Kategorien werden zum Einordnen der Posts genutzt.
+Bisher gibt es "News".
+
+Tags in Posts sollten nur für Städtenamen genutzt werden.
+Wenn neue Städte hinzukommen, wird unter /stadt ein neues Verzeichnis mit dem kleingeschriebenen namen
+der Stadt angelegt und einer index.html die folgenden Inhalt hat:
+---
+layout: city
+tag: Stadtname
+---
+Hierbei ist die Groß und Kleinschreibung zu beachten. Sollten Stadtnamen aus mehreren, mit Leerzeichen
+getrennten Namen bestehen, wird ein "-" zum Auffüllen der Leerzeichen genutzt

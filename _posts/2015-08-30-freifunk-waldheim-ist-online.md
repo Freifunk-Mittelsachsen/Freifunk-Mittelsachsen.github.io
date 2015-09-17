@@ -1,12 +1,13 @@
 ---
-title: "Freifunk Waldheim ist online"
+title: "Freifunk Mittelsachsen ist online"
 layout: post
 date: 2015-08-30 15:57:09
-categories: waldheim
+categories: News
+tags: [Waldheim,Alle]
 ---
 Hallo Liebe Leute,
-nun ist die Webseite für Freifunk Waldheim online. Ein kleiner Schritt für ein selbstverwaltetes Netzwerk
-in Waldheim und Umgebung ist getan.
+nun ist die Webseite für Freifunk Mittelsachsen online. Ein kleiner Schritt für ein selbstverwaltetes Netzwerk
+in Mittelsachsen ist getan.
 
 Auf dieser Webseite findet man zur Zeit nicht wirklich viele Informationen. Das wird sich aber binnen kurzer Zeit ändern.
 An dieser Stelle werden immer aktuelle Infos zum Ausbau und zur Entwicklung des Netzwerks erscheinen.

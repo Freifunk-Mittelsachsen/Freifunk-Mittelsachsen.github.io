@@ -2,7 +2,8 @@
 title: "Hauptquartier bezogen - Internet liegt an"
 layout: post
 date: 2015-09-04 08:48:13
-categories: waldheim
+categories: News
+tags: Waldheim
 ---
 Das Hauptquartier ist bezogen. Im Gewerbegebiet in Waldheim haben wir jetzt einen Standort um uns zu treffen,
 Projekte zu bearbeiten, an Freifunk zu arbeiten oder einfach abzuhängen.

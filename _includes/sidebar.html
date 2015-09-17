@@ -1,4 +1,16 @@
 <aside>
+  <h4>Städte</h4>
+  <ul class="list-unstyled">
+    {% for city in site.tags %}
+       <li>
+         <a href="{{ city[0] | downcase | prepend: "/stadt/" | prepend: site.baseurl }}">
+           {{ city[0] }}
+         </a>
+       </li>
+    {% endfor %}
+  </ul>
+
+
   <iframe src="https://player.vimeo.com/video/64814620" width="300" height="181" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
   </iframe>
   <p>
