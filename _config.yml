@@ -1,11 +1,11 @@
 # Site settings
-title: Freifunk Waldheim
+title: Freifunk Mittelsachsen.
 email: kontakt@freifunk-mittelsachsen.de
 description: > # this means to ignore newlines until "baseurl:"
-    Freifunk Waldheim - kostenloses und selbstorganisiertes Netzwerk in
-    Waldheim und Umgebung
+    Freifunk Mittelsachsen - kostenloses und selbstorganisiertes Netzwerk in
+    den Städten und Gemeinden Mittelsachsens
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.freifunk-waldheim.de" # the base hostname & protocol for your site
+url: "http://www.freifunk-mittelsachsen.de" # the base hostname & protocol for your site
 twitter_username: freifunkmtl
 github_username:  Freifunk-Mittelsachsen
 exclude: [Rakefile,  docs/*, templates/*]

@@ -42,7 +42,9 @@
   width: 2rem;
 }
 
-
+.post-list > li {
+  margin-bottom: 2rem;
+}
 
 @media (max-width: map-get($grid-breakpoints,"md")) {
   .site-title {
