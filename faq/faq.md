@@ -13,15 +13,15 @@ order: 30
 
 Nachfolgend werden allgemeine Fragen beantwortet, sodass keine Verwirrung zu Freifunk entsteht:
 
-#### Wie viel kostet die Nutzung von Freifunk?
-WICHTIG! Freifunk Waldheim ist **gratis für alle**!
+#### Wie viel kostet Freifunk?
+**WICHTIG!** Bei Freifunk ist die Nutzung **kostenlos** für alle und das Mitmachen ist ohne Folgekosten.
 
 #### Wer ist Freifunk? Wer sind wir?
 Wir sind eine Gruppe Freiwilliger, welche das Projekt Freifunk Mittelsachsen (im speziellen Freifunk Waldheim)
 betreiben und aufbauen.
 Wir sind **keine Firma** und haben auch **keine kommerziellen Absichten**. **Wir verdienen mit Freifunk kein Geld**.
 Wir sind einfach Deine Nachbarn, Deine Bekannten oder Bürger, welche einen Router hinstellen um überall in
-unserer und Deiner Umgebung freies und kostenloses Internet nutzen zu können.
+unserer und Deiner Umgebung freies und kostenloses WLAN nutzen zu können.
 
 #### Warum macht ihr dann Freifunk?
 Wir sind der Meinung: Jeder sollte Internet haben - Egal ob er sich dies leisten kann oder nicht, oder aus anderen
@@ -30,14 +30,13 @@ Auch wir selbst möchten überall schnelles Internet haben ohne das unser Volume
 irgendwann die Verbindung zu langsam wird, weil das Volumen des Mobilfunktarif aufgebraucht ist - genau wie Du oder?
 
 #### Muss ich einen Vertrag mit euch abschließen?
-Es gibt für Dich als Nutzer keine Kosten für das Internet, noch musst Du mit uns einen Vertrag abschließen.
-Es gibt auch keine Laufzeit und keine Folgekosten.
+Es gibt für Dich als Nutzer von Freifunk keine Kosten, noch musst Du mit uns einen Vertrag abschließen.
+Es gibt auch keine Laufzeit oder Folgekosten.
 
 #### Kann ich bei euch kostenlos mitmachen?
-Die Nutzung vom Internet ist kostenlos. Allerdings entstehen beim Mitmachen für Dich Kosten für Deine Infrastruktur und die anfallenden Stromkosten.
+Ja, das Mitmachen ist kostenlos allerdings entstehen einmalig Anschaffungskosten für den benötigten WLAN-Router.
 Der Router kostet je nach Model ab 20,- Euro und ist z.B. bei Amazon erhältlich. Vergleiche dazu
 unsere [Liste der unterstützten Router](/mitmachen) für Freifunk Waldheim.
-Du kaufst dir einmalig einen Router (oder mehrere, wenn du es für nötig hälst) und mehr nicht. Dann hast du im Jahr noch ca. 20,- Euro Stromkosten pro Router.
 
 #### Was brauch ich noch?
 Damit Dein Router mit den Routern in Deiner Nachbarschaft und unseren Servern kommunizieren kann, benötigt er eine Software.
