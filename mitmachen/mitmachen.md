@@ -122,9 +122,19 @@ Hier eine Liste der getesteten Router.
     <td>-</td>
     <td>5GHz, 300Mbit/s, 13dBi </td>
   </tr>
-
-
-
+  <tr>
+    <td>
+      <a href="http://www.amazon.de/TP-LINK-CPE210-300Mbps-Wireless-Weatherproof/dp/B00OULV20W/ref=sr_1_1?s=computers&ie=UTF8&qid=1442773825&sr=1-1&keywords=CPE210">
+        CPE210
+      </a>
+    </td>
+    <td>TP-Link</td>
+    <td>50-80&#8364;</td>
+    <td>64</td>
+    <td>8</td>
+    <td>-</td>
+    <td>2GHz 300Mbps 9dbi</td>
+  </tr>
   <tr>
     <td> <a href="http://www.amazon.de/dp/B00I4QF9B2">Nanostation M5</a>  </td>
     <td> Ubiquiti </td>
