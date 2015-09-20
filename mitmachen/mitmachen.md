@@ -120,7 +120,7 @@ Hier eine Liste der getesteten Router.
     <td>64</td>
     <td>8</td>
     <td>-</td>
-    <td>5GHz, 300Mbit/s, 13dBi </td>
+    <td>5GHz, 300Mbit/s, 13dBi Gewinn</td>
   </tr>
   <tr>
     <td>
@@ -133,7 +133,7 @@ Hier eine Liste der getesteten Router.
     <td>64</td>
     <td>8</td>
     <td>-</td>
-    <td>2GHz 300Mbps 9dbi</td>
+    <td>2.4GHz, 300Mbit/s, 9dBi Gewinn</td>
   </tr>
   <tr>
     <td> <a href="http://www.amazon.de/dp/B00I4QF9B2">Nanostation M5</a>  </td>
