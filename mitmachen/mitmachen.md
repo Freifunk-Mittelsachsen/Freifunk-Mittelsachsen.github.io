@@ -82,6 +82,19 @@ Hier eine Liste der getesteten Router.
     <td> mehr Speicher, USB Anschlüsse, auch 5 GHZ, 2 abnehmbare Antennen</td>
   </tr>
   <tr>
+    <td>
+      <a href="http://www.amazon.de/TP-Link-TL-WR1043ND-Ultimate-Anschluss-Glasfasermodem/dp/B002YETVTQ/ref=sr_1_5?s=computers&ie=UTF8&qid=1442408547&sr=1-5&keywords=841nd">
+      TP-Link TL-WR1043ND
+      </a>
+    </td>
+    <td>TP-Link</td>
+    <td>50-60 &#8364;</td>
+    <td>32-64</td>
+    <td>8</td>
+    <td>v3</td>
+    <td>für Anschluss an Kabel-/DSl-/Glasfasermodem, LAN, 300MBit/s, WAN, USB 2.0</td>
+  </tr>
+  <tr>
     <td> <a href="http://www.amazon.de/dp/B00I4QF9B2">Nanostation M5</a>  </td>
     <td> Ubiquiti </td>
     <td> ca 80&#8364; </td>
