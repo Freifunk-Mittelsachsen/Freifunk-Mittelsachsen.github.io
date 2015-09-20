@@ -66,7 +66,7 @@ Hier eine Liste der getesteten Router.
   <tr>
     <td> <a href="http://www.amazon.de/dp/B006E04T9I">TL-WR842ND</a></td>
     <td> TP-Link</td>
-    <td> 20-29&#8364;</td>
+    <td> 20-35&#8364;</td>
     <td> 32</td>
     <td> 4</td>
     <td> v1-v9</td>
