@@ -96,10 +96,10 @@ Hier eine Liste der getesteten Router.
   </tr>
 
   <tr>
-  <td>
-    <a href="http://www.amazon.de/TP-Link-TL-WDR4300-Simultan-Dual-Band-LAN-Ports/dp/B00810P80S/ref=sr_1_1?s=computers&ie=UTF8&qid=1442408637&sr=1-1&keywords=tp-link+4300">
-      TL-WDR4300
-    </a>
+    <td>
+      <a href="http://www.amazon.de/TP-Link-TL-WDR4300-Simultan-Dual-Band-LAN-Ports/dp/B00810P80S/ref=sr_1_1?s=computers&ie=UTF8&qid=1442408637&sr=1-1&keywords=tp-link+4300">
+        TL-WDR4300
+      </a>
     <td>TP-Link</td>
     <td>75-85&#8364;</td>
     <td>128</td>
@@ -107,6 +107,22 @@ Hier eine Liste der getesteten Router.
     <td>v1.7</td>
     <td>für Anschluss an Kabel-/DSl-/Glasfasermodem, LAN, 300MBit/s, WAN, USB 2.0</td>
   </tr>
+  <tr>
+    <td>
+      <a href="http://www.amazon.de/TP-Link-CPE510-Outdoor-Access-300Mbit/dp/B00N1Q7W8I/ref=sr_1_1?s=computers&ie=UTF8&qid=1442773525&sr=1-1&keywords=CPE510">
+        CPE-510
+      </a>
+    </td>
+    <td>
+      TP-Link
+    </td>
+    <td>60-70&#8364;</td>
+    <td>64</td>
+    <td>8</td>
+    <td>-</td>
+    <td>5GHz, 300Mbit/s, 13dBi </td>
+  </tr>
+
 
 
   <tr>
