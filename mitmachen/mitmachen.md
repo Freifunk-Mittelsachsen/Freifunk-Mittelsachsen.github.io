@@ -84,16 +84,31 @@ Hier eine Liste der getesteten Router.
   <tr>
     <td>
       <a href="http://www.amazon.de/TP-Link-TL-WR1043ND-Ultimate-Anschluss-Glasfasermodem/dp/B002YETVTQ/ref=sr_1_5?s=computers&ie=UTF8&qid=1442408547&sr=1-5&keywords=841nd">
-      TP-Link TL-WR1043ND
+        TP-Link TL-WR1043ND
       </a>
     </td>
     <td>TP-Link</td>
-    <td>50-60 &#8364;</td>
+    <td>50-60&#8364;</td>
     <td>32-64</td>
     <td>8</td>
     <td>v3</td>
     <td>für Anschluss an Kabel-/DSl-/Glasfasermodem, LAN, 300MBit/s, WAN, USB 2.0</td>
   </tr>
+
+  <tr>
+  <td>
+    <a href="http://www.amazon.de/TP-Link-TL-WDR4300-Simultan-Dual-Band-LAN-Ports/dp/B00810P80S/ref=sr_1_1?s=computers&ie=UTF8&qid=1442408637&sr=1-1&keywords=tp-link+4300">
+      TL-WDR4300
+    </a>
+    <td>TP-Link</td>
+    <td>75-85&#8364;</td>
+    <td>128</td>
+    <td>8</td>
+    <td>v1.7</td>
+    <td>für Anschluss an Kabel-/DSl-/Glasfasermodem, LAN, 300MBit/s, WAN, USB 2.0</td>
+  </tr>
+
+
   <tr>
     <td> <a href="http://www.amazon.de/dp/B00I4QF9B2">Nanostation M5</a>  </td>
     <td> Ubiquiti </td>
