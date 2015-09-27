@@ -36,7 +36,7 @@ Bist du dir unsicher kannst du uns gern kontaktieren.
 
 ### Strom
 
-Zudem wird etwas Strom benötigt. Das sind bei den Meisten Routern so 5-10 Watt. Hier empfiehlt es sich
+Zudem wird etwas Strom benötigt. Das sind bei den meisten Routern so 5-10 Watt. Hier empfiehlt es sich
 gleich einen Mehrfachverteiler mit zu nutzen. So wird verhindert, dass Router vom Netz gehen und
 vergessen werden wieder reinzustecken o.ä.
 
@@ -49,7 +49,7 @@ Keine Angst wir möchten nicht Dein Haus sondern nur auf dein Dach. Warum?
 Oftmals hat man von Gebäuden einen deutlich besseren Blick und kann durch eine Montage von Technik Richtfunkstrecken
 realisieren um das Freifunk Netzwerk zu erweitern.
 Wir suchen Dächer mit einem guten Rundum-Blick, einen schönen Blick in die Stadt, erhöht stehende oder hohe Gebäude etc.
-Auch wenn du ein kleineres Gebäude hast kannst du uns helfen. Schreib uns einfach unter [Kontakt](/kontakt.html)
+Auch wenn du ein kleineres Gebäude hast kannst du uns helfen. Schreib uns einfach unter [Kontakt](/kontakt/)
 oder über [Facebook](https://www.facebook.com/groups/FreifunkMittelsachsen/) an. Optimal (aber kein Muss) wäre gleich wenn du uns ein  paar Bilder vom Ausblick und den genauen Punkt auf der Karte von [Google Maps](http://maps.google.com) rüber schicken könntest.
 
 
