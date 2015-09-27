@@ -58,6 +58,10 @@ Wenn Du nicht in Waldheim wohnst, aber Interesse hast oder gar anpacken willst, 
 #### Aber ich habe gehört das Freifunk Geld kostet und ihr behauptet hier etwas anderes - ich bin verwirrt.
 Alles was auf dieser Webseite über Freifunk steht sind unsere Prinzipien. Mit den Unwahrheiten anderer Quellen haben wir nichts zu tun.
 
+#### Ich empfange ein WLAN mit z.B. waldheim.freifunk.de aber das ist schwach. Was kann ich tun?
+Schau bitte mal auf der [Mitmachen](/mitmachen/) Seite. Da gibt es Hinweise wie du mitmachen kannst und bald
+selbst Freifunk WLAN nutzen oder auch selbst anbieten kannst.
+
 #### Ich habe andere Fragen - Wie kann ich euch erreichen?
 Über unsere [Kontaktseite](/kontakt) kannst Du uns erreichen. Alternativ kannst Du auch direkt David Nölte anschreiben.
 Auf unserer Webseite ist weiteres Informationsmaterial hinterlegt, vielleicht beantwortet das auch Deine Frage.
