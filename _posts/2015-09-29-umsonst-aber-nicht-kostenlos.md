@@ -20,7 +20,7 @@ Zur Zeit werden alle diese Kosten vom Initiator von Freifunk Mittelsachsen, Davi
 
 Freifunk ist ein Gemeinschaftsprojekt und es liegt nahe diese Betriebskosten auf viele Schultern zu verteilen.
 **Das ist jetzt durch Spenden möglich.**
-Wenn Du ein paar Euro übrig hast und Freifunk gut findest dann kannst du uns unterstützen und mithelfen die laufenden Kosten zu decken. Alle Spenden werden ausschließlich für die Betriebskosten von Freifunk Mittelsachsen aufgewendet.
+Wenn Du ein paar Euro übrig hast und Freifunk gut findest dann kannst du uns unterstützen und mithelfen die laufenden Kosten zu decken. Alle Spenden werden ausschließlich für die Betriebskosten von Freifunk Mittelsachsen aufgewendet.<br>
 Wir danken Dir schon schon mal.
 
 ## So gehts
