@@ -10,6 +10,7 @@ Es gibt mehrere Möglichkeiten Freifunk zu unterstützen:
 
 * [Einen eigenen Router aufstellen](#router-aufstellen)
 * [Dein hohes Dach/hohes Gebäude uns zur Verfügung stellen](#dein-hohes-dachgebude-fr-freifunk)
+* [Kosten decken - Spenden](#spenden)
 
 
 ## Router aufstellen
@@ -51,6 +52,11 @@ realisieren um das Freifunk Netzwerk zu erweitern.
 Wir suchen Dächer mit einem guten Rundum-Blick, einen schönen Blick in die Stadt, erhöht stehende oder hohe Gebäude etc.
 Auch wenn du ein kleineres Gebäude hast kannst du uns helfen. Schreib uns einfach unter [Kontakt](/kontakt/)
 oder über [Facebook](https://www.facebook.com/groups/FreifunkMittelsachsen/) an. Optimal (aber kein Muss) wäre gleich wenn du uns ein  paar Bilder vom Ausblick und den genauen Punkt auf der Karte von [Google Maps](http://maps.google.com) rüber schicken könntest.
+
+## Spenden
+Wie in der [News zu den Kosten](/news/2015/09/29/umsonst-aber-nicht-kostenlos.html) geschrieben, entstehen bei Freifunk
+Betriebskosten. Wenn du ein paar Euro übrig hast kannst du gern Freifunk auch mit einer Spende unterstützen.
+[Hier steht wie das geht.](/news/2015/09/29/umsonst-aber-nicht-kostenlos.html)
 
 
 <a title="CC BY-SA Freifunk Dresden" href="http://creativecommons.org/licenses/by-sa/3.0/">
