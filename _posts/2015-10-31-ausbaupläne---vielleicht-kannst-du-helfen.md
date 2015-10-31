@@ -2,7 +2,7 @@
 title: "Ausbaupläne Waldheim - vielleicht kannst du helfen"
 layout: post
 date: 2015-10-31 11:26:52   
-categories: waldheim
+categories: news
 tags: [Waldheim]
 ---
 Vielleicht kannst Du uns unterstützen beim Ausbau von Freifunk in Waldheim - ganz einfach und unbürokratisch.
