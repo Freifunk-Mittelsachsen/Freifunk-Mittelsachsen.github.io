@@ -1,10 +1,11 @@
 ---
-title: "Ausbaupläne - vielleicht kannst du helfen"
+title: "Ausbaupläne Waldheim - vielleicht kannst du helfen"
 layout: post
 date: 2015-10-31 11:26:52   
 categories: waldheim
+tags: [Waldheim]
 ---
-Vielleicht kannst Du uns unterstützen beim Ausbau von Freifunk - ganz einfach und unbürokratisch.
+Vielleicht kannst Du uns unterstützen beim Ausbau von Freifunk in Waldheim - ganz einfach und unbürokratisch.
 Wir brauchen Dich.
 
 Wir haben in Waldheim aktuell einen starken Engpass (das bedeutet zu viele Benutzer und eine schlechte Funkverbindung) und brauchen Deine Hilfe. Wenn Du in der Nähe der **Ecke Bahnhofstraße-Hauptstraße** wohnst und einen Teil Deines Internet
