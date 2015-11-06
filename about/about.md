@@ -5,24 +5,39 @@ permalink: /about/
 order: 10
 ---
 
-Freie Netze werden von immer mehr Menschen in Eigenregie aufgebaut und gewartet. Jeder Nutzer im freifunk-Netz stellt seinen WLAN-Router für den Datentransfer der anderen Teilnehmer zur Verfügung. Im Gegenzug kann er oder sie ebenfalls Daten, wie zum Beispiel Text, Musik und Filme über das interne freifunk-Netz übertragen oder über von Teilnehmern eingerichtete Dienste im Netz Chatten, Telefonieren und gemeinsam Onlinegames spielen. Dafür nutzen wir Mesh Netzwerke.
+Freifunk Mittelsachsen ist eine Bürgerinitiative um stadtweit kostenloses WLAN anzubieten.
 
-Viele stellen zudem ihren Internetzugang zur Verfügung und ermöglichen anderen den Zugang zum weltweiten Netz. Freifunk-Netze sind Selbstmach-Netze. Für den Aufbau nutzen wir die freifunk-Firmware auf unseren WLAN-Routern, eine spezielle Linuxdistribution.
+<img src="/img/mesh-net-symbol.svg" class="pull-right" alt="Mesh Net">
 
-Lokale Communities stellen die auf eigene Bedürfnisse angepasste Software dann auf ihren Websites zur Verfügung. In Dörfern und Städten gibt es immer mehr Freifunk-Gruppen, die sich regelmässig treffen.
+Freie Netze immer öfter von Bürgern in Eigenregie aufgebaut. Viele Nutzer im Freifunk-Netz stellt seinen WLAN-Router zur Verfügung. Diese Router verbinden sich automatisch zu einem großen Netzwerk (Mesh genannt).
+Im Gegenzug können ebenfalls Daten, wie Text, Musik und Filme über das Freifunk-Netz übertragen werden. Über Dienste,
+welche Nutzer betreiben kann gechattet, telefoniert und gemeinsam Onlinegames gespielen werden.
 
-Und auch du kannst bei Freifunk mitmachen! Wie, das erfährst du hier!
+Schau dir Bitte dazu dieses kurze Video an:
 
-Freifunk Waldheim - das bedeutet:
+<iframe width="400" height="281" src="https://www.youtube.com/embed/2Z12OjnPADA" frameborder="0" allowfullscreen></iframe>
+<p>
+  <a href="https://vimeo.com/64814620">Freifunk verbindet!</a> from
+  <a href="https://vimeo.com/kosmonautensofa">Philipp Seefeldt</a> on
+  <a href="https://vimeo.com">Vimeo</a>.
+</p>
 
--   Internet bei dem Du selbst mitmachen kannst
--   Internet ohne das es Dich was kostet
+Viele stellen zudem ihren Internetzugang zur Verfügung. So ermöglichen sie anderen den Zugang zum weltweiten Netz. Freifunk-Netze sind Selbstmach-Netze. Für den Aufbau wird die Freifunk-Firmware auf unseren WLAN-Routern genutzt.
+(für die Experten: das ist eine spezielle Linuxdistribution).
+
+Und auch Du kannst bei Freifunk mitmachen! Wie, das erfährst du [hier](/mitmachen)!
+
+<img src="/img/ffms-wifi.svg" class="pull-right" alt="Freifunk Mittelsachsen Wifi">
+
+Freifunk Mittelsachsen - das bedeutet:
+
+-   kostenloses und hoffentlich bald stadtweites WLAN
+-   WLAN bei dem Du selbst mitmachen kannst
 -   Internet ohne das jemand wissen will wer Du bist
 -   Internet ohne das jemand mit hört
 
 ### Weiterführende Literatur
-Wer mehr erfahren möchte kann dieses kostenlose E-Book lesen.
-
+In dem kostenlosen E-Book gibts mehr darüber zu lesen.
 
 <a href="http://www.mabb.de/files/content/document/Publikationen/Freifunk-Broschuere/freifunk_publikation_webversion_2.Auflage.pdf.pdf" title="Feie Netze E-Book PDF">
   <img alt="freienetze ebook cover" src="{{ "/assets/freienetze-ebook-cover.jpg" | prepend: site.baseurl }}">
