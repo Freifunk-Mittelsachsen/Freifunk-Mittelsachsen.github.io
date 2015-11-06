@@ -35,7 +35,7 @@ Es gibt auch keine Laufzeit oder Folgekosten.
 
 #### Kann ich bei euch kostenlos mitmachen?
 Ja, das Mitmachen ist kostenlos allerdings entstehen einmalig Anschaffungskosten für den benötigten WLAN-Router.
-Der Router kostet je nach Model ab 20,- Euro und ist z.B. bei Amazon erhältlich. Vergleiche dazu
+Der Router kostet *einmalig* je nach Model ab 20,- Euro und ist z.B. bei Amazon erhältlich. Vergleiche dazu
 unsere [Liste der unterstützten Router](/mitmachen) für Freifunk Waldheim.
 
 #### Was brauch ich noch?
