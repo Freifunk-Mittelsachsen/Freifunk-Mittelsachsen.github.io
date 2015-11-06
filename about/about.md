@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Was ist Freifunk
+title: Über Freifunk
 permalink: /about/
 order: 10
 ---
