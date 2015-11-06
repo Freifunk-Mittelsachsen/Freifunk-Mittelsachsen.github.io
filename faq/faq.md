@@ -1,96 +1,71 @@
 ---
 layout: page
-title: Oft gestellte Fragen - FAQ
+title: Fragen? - Antworten!
 permalink: /faq/
-order: 30
+order: 20
 ---
 
-* [Allgemeine Fragen zu Freifunk](#faq-freifunk)
-* [Anleitungsvideos](#videos)
-
-
-## Allgemeine Fragen zu Freifunk <a id="faq-freifunk"></a>
-
-Nachfolgend werden allgemeine Fragen beantwortet, sodass keine Verwirrung zu Freifunk entsteht:
 
 #### Wie viel kostet Freifunk?
 **WICHTIG!** Bei Freifunk ist die Nutzung **kostenlos** für alle und das Mitmachen ist ohne Folgekosten.
 
 #### Wer ist Freifunk? Wer sind wir?
-Wir sind eine Gruppe Freiwilliger, welche das Projekt Freifunk Mittelsachsen (im speziellen Freifunk Waldheim)
-betreiben und aufbauen.
-Wir sind **keine Firma** und haben auch **keine kommerziellen Absichten**. **Wir verdienen mit Freifunk kein Geld**.
-Wir sind einfach Deine Nachbarn, Deine Bekannten oder Bürger, welche einen Router hinstellen um überall in
-unserer und Deiner Umgebung freies und kostenloses WLAN nutzen zu können.
+Wir sind eine Gruppe Freiwilliger die Freifunk Mittelsachsen (im speziellen Freifunk Waldheim)
+aufbauen und betreiben.
+Wir sind Deine Nachbarn, Deine Bekannten oder Bürger Deiner Stadt. Wir stellen einen oder mehrere Router auf
+um überall in unserer und Deiner Umgebung freies und kostenloses WLAN nutzen zu können.
+[Mach doch auch mit](/mitmachen)
 
-#### Warum macht ihr dann Freifunk?
-Wir sind der Meinung: Jeder sollte Internet haben - Egal ob er sich dies leisten kann oder nicht, oder aus anderen
-Gründen kein Internet zur Verfügung steht.
-Auch wir selbst möchten überall schnelles Internet haben ohne das unser Volumen auf dem Handy reduziert wird, oder
-irgendwann die Verbindung zu langsam wird, weil das Volumen des Mobilfunktarif aufgebraucht ist - genau wie Du oder?
+#### Was ist Freifunk nicht?
+Wir sind **keine Firma** und haben **keine kommerziellen Absichten**.
+**Wir verdienen mit Freifunk kein Geld**. Wir sind auch kein Internet Service Provider wie z.B. die Telekom oder T-Online.
+
+#### Warum macht ihr Freifunk?
+Überall Zugang zum Netz zu haben gehört heute dazu. Jeder soll das können egal ob er es sich leisten kann oder nicht.
+Wir meinen das die Nutzung kostenlos und unkompliziert sein sollte. Außerdem wollen wir auf unseren Handies nicht
+ausgebremst werden, wenn das monatliche Volumen erschöpft ist.
 
 #### Muss ich einen Vertrag mit euch abschließen?
-Es gibt für Dich als Nutzer von Freifunk keine Kosten, noch musst Du mit uns einen Vertrag abschließen.
+Nein - es gibt für Dich als Nutzer von Freifunk keine Kosten. Du musst keinen Vertrag abschließen.
 Es gibt auch keine Laufzeit oder Folgekosten.
 
 #### Kann ich bei euch kostenlos mitmachen?
-Ja, das Mitmachen ist kostenlos allerdings entstehen einmalig Anschaffungskosten für den benötigten WLAN-Router.
+Ja - das Mitmachen ist kostenlos allerdings entstehen *einmalig* Anschaffungskosten für den benötigten WLAN-Router.
 Der Router kostet *einmalig* je nach Model ab 20,- Euro und ist z.B. bei Amazon erhältlich. Vergleiche dazu
-unsere [Liste der unterstützten Router](/mitmachen) für Freifunk Waldheim.
+unsere [Liste der unterstützten Router](/mitmachen).
 
 #### Was brauch ich noch?
-Damit Dein Router mit den Routern in Deiner Nachbarschaft und unseren Servern kommunizieren kann, benötigt er eine Software.
-Diese Software nennt sich Firmware und ist [kostenlos herunterladbar](http://firmware.freifunk-waldheim.de).
-Diese wird als Firmwareupdate in den Router reingeladen. Vergleiche dazu auch die [Videos am Ende der Seite](#videos).
+Damit Dein Router sich mit Freifunk verbidnen kann, benötigt er eine Software.
+Diese Software nennt sich Firmware und ist [kostenlos herunterladbar](http://firmware.freifunk-waldheim.de) und
+wird in deinen Router geladen.
+Vergleiche dazu auch die [Videos am Ende der Seite](#videos) und unsere [Mitmachen Seite](/mitmachen)
 
-#### Ich möchte mitmachen, stehe mit Computern auf Kriegsfuß - kann ich trotzdem?
-Natürlich! Du bist eingeladen auch mitzumachen. Wenn du Dir das Aufspielen der Software auf einen Router nicht zu traust, kannst Du auch gern mit uns Kontakt aufnehmen. Wir machen das entweder mit Dir zusammen oder Du kannst von uns einen Router zum Selbstkostenpreis kaufen, auf dem die Software bereits installiert wurde.
+#### Ich möchte mitmachen, stehe mit Computern auf Kriegsfuß - geht das trotzdem?
+Natürlich! Auch Du bist eingeladen mitzumachen. Wenn du Dir das Aufspielen der Software auf einen Router nicht zu traust, kannst Du auch gern mit uns [Kontakt aufnehmen](/kontakt).
+Wir machen das entweder mit Dir zusammen oder Du kannst von uns einen Router zum Selbstkostenpreis kaufen, auf dem die Software bereits installiert wurde.
 
-#### Warum gibt es Freifunk erst einmal nur in Waldheim?
-Leider haben wir aktuell noch nicht die Möglichkeiten Freifunk Mittelsachsen außerhalb Waldheims zu realisieren. Allerdings haben wir uns zum Ziel gesetzt, Freifunk in ganz Mittelsachsen zur Verfügung zu stellen.
-Waldheim hat hier den Anfang gemacht.
-Weitere Städte wie Hartha und Döbeln sind in Planung.
-
-**Wir brauchen Unterstützung!**
-
-Wenn Du nicht in Waldheim wohnst, aber Interesse hast oder gar anpacken willst, dann [melde dich doch einfach bei](/kontakt). Jeder der Anpacken will, hilft die Vernetzung zu beschleunigen!
+#### In welchen Städten gibt es Freifunk?
+Wir wohnen in Waldheim also ist der Ausbau in Waldheim unser Hauptziel. In Hartha und Döbeln wird Freifunk in den
+nächsten Wochen auch verfügbar sein. Andere Städte werden folgen. Wohnst Du im Kreis Mittelsachsen und willst deinen Ort
+Stadt an Freifunk anbinden [nimm bitte Kontakt mit uns auf](/kontakt) damit wir das koordinieren können.
 
 #### Aber ich habe gehört das Freifunk Geld kostet und ihr behauptet hier etwas anderes - ich bin verwirrt.
 Alles was auf dieser Webseite über Freifunk steht sind unsere Prinzipien. Mit den Unwahrheiten anderer Quellen haben wir nichts zu tun.
 
 #### Ich empfange ein WLAN mit z.B. waldheim.freifunk.de aber das ist schwach. Was kann ich tun?
-Schau bitte mal auf der [Mitmachen](/mitmachen/) Seite. Da gibt es Hinweise wie du mitmachen kannst und bald
-selbst Freifunk WLAN nutzen oder auch selbst anbieten kannst.
+Schau bitte auf die [Mitmachen](/mitmachen/) Seite. Da steht was nötig ist um einen Freifunk Knoten aufzustellen
+und damit ein stärkeres Signal zu haben.
+
+#### Wenn ich Freifunk zur Verfügung stelle bin ich für das haftbar was über meine Leitung geht?
+Dein Freifunk-Router verschlüsselt den Datenverkehr und schickt ihn anonym an sogenannte VPN Server im Ausland (Niederlande
+  und Skandinavien) wo dieser dann ins Internet geleitet wird. Somit ist das Thema Haftung und Störerhaftung
+  für dich als Betreiber eines Freifunk Knotens erledigt. Schau dir dazu auch das Video auf unserer ["Über Freifunk"](/about) Seite an.
+Das ist keine Einladung Freifunk zu missbrauchen.
 
 #### Ich habe andere Fragen - Wie kann ich euch erreichen?
 Über unsere [Kontaktseite](/kontakt) kannst Du uns erreichen. Alternativ kannst Du auch direkt David Nölte anschreiben.
 Auf unserer Webseite ist weiteres Informationsmaterial hinterlegt, vielleicht beantwortet das auch Deine Frage.
 
 
-### Wo kann ich noch mehr erfahren
+#### Wo kann ich noch mehr erfahren
 Wir verweisen hier mal auf die [Fragen und Antworten Kategorie](http://wiki.freifunk-dresden.de/index.php/Hauptseite#Dokumentation_.2F_FAQ) von [Freifunk Dresden](http://www.freifunk-dresden.de).
-
-
-
-## Anleitungsvideos <a id="videos"></a>
-
-Es gibt noch ein paar Anleitungsvideos, welche wir gern empfehlen möchten:
-
-
-
-
-##### Router mit Freifunk-Firmware (Gluon) flashen | Tutorial | Freifunkthek #####
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dI5JcmURtEM" frameborder="0" allowfullscreen></iframe>
-
-
-
-##### Ghetto-Outdoor-Gehäuse bauen | Tutorial | Freifunkthek #####
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v1fI3JdK8gg" frameborder="0" allowfullscreen></iframe>
-
-
-
-##### Freifunk-Router richtig einrichten (Gluon) | Tutorial | Freifunkthek #####
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tueVWUisvWI" frameborder="0" allowfullscreen></iframe>
