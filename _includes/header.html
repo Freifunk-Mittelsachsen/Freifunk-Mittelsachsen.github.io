@@ -23,18 +23,18 @@
             {% for page in pages %}
               {% unless page.url contains 'stadt' %}
                 {% if page.title %}
-                  <li class="nav-item" >
+                  <li class="nav-item {% if forloop.last %} last {% endif %}" >
                     <a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                   </li>
                 {% endif %}
               {% endunless %}
             {% endfor %}
-            <li class="nav-item">
+            <li class="nav-item pull-right nodot">
               <a class="nav-link" href="http://karte.freifunk-mittelsachsen.de/meshviewer">
                 Karte
               </a>
             </li>
-            <li class="nav-item pull-right">
+            <li class="nav-item pull-right nodot">
               <a class="nav-link" href="http://www.freifunk.de">freifunk.de</a>
             </li>
           </ul>
