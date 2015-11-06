@@ -35,7 +35,7 @@ Der Router kostet *einmalig* je nach Model ab 20,- Euro und ist z.B. bei Amazon 
 unsere [Liste der unterstützten Router](/mitmachen).
 
 #### Was brauch ich noch?
-Damit Dein Router sich mit Freifunk verbidnen kann, benötigt er eine Software.
+Damit Dein Router sich mit Freifunk verbinden kann, benötigt er eine Software.
 Diese Software nennt sich Firmware und ist [kostenlos herunterladbar](http://firmware.freifunk-waldheim.de) und
 wird in deinen Router geladen.
 Vergleiche dazu auch die [Videos am Ende der Seite](#videos) und unsere [Mitmachen Seite](/mitmachen)
