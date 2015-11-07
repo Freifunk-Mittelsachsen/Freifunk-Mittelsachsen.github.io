@@ -1,0 +1,59 @@
+<h4 class="h5">
+  Firmware für deinen Router auswählen
+</h4>
+<script>
+ {% include firmware.json %}
+</script>
+<form id="firmware-form">
+  <fieldset class="form-group">
+    <label for="city">
+      Stadt
+    </label>
+    <select name="city" id="city" class="form-control">
+    </select>
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="manufacterer">
+      Hersteller
+    </label>
+    <select name="manufacterer" id="manufacterer" class="form-control">
+    </select>
+
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="routertype">
+      Router
+    </label>
+    <select name="routertype" id="routertype" class="form-control">
+    </select>
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="hw-version">
+      Revision
+    </label>
+    <select name="hw-version" id="hw-version" class="form-control">
+    </select>
+  </fieldset>
+  <div class="radio">
+    <label>
+      <input id="install-new" name="installtype" type="radio" value="factory" checked="checked">
+      Neuinstallation
+    </label>
+  </div>
+  <div class="radio">
+    <label>
+      <input id="install-update" name="installtype" type="radio" value="sysupgrade">
+      Update
+    </label>
+  </div>
+  <button type="submit" id="firmware-submit" class="btn btn-primary" >
+    Firmware herunter laden
+  </button>
+</form>
+
+<div id="dlcollapse" class="collapse m-t m-b">
+  <h4>Downloadlink</h4>
+  <div id="downloadlink">
+    
+  </div>
+</div>

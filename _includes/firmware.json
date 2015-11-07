@@ -1,0 +1,26 @@
+ffmsconfig = {
+  "revision": "gluon-ffwdh-0.6+exp20150925",
+  "city": {
+    "waldheim": "Waldheim",
+    "hartha": "Hartha",
+    "doebeln": "Döbeln"
+  },
+  "manufacterer": {
+    "tp-link": "TP-Link",
+    "ubiquiti": "Ubiquiti"
+  },
+  "router": {
+    "tl-wr841n-nd": {
+      "name": "WR-841ND",
+      "hw_version": [
+        "1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    "m2loco": {
+      "name": "M2 Loco",
+      "hw_version": [
+        "1","2"
+      ]
+    }
+  }
+}

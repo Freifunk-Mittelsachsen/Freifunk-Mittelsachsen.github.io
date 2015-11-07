@@ -8,8 +8,8 @@ order: 30
 Bei Freifunk mitzumachen geht so:
 
 
-* [Einen eigenen Router betreiben](#router-betreiben)
-* [Dein hohes Dach/hohes Gebäude zur Verfügung stellen](#dein-hohes-dachgebude-fr-freifunk-mittelsachsen)
+* [Einen eigenen Router betreiben](#router-aufstellen)
+* [Dein hohes Dach/hohes Gebäude zur Verfügung stellen](#dein-hohes-dachgebude-fr-freifunk)
 * [Kosten decken - Spenden](#spenden)
 * [Anleitungsvideos](#videos)
 
@@ -41,6 +41,9 @@ hier herunter laden:
 Hast du einen Router der noch die Firmware vom Hersteller drauf hat, dann nimm bitte die entsprechende Firmware aus dem **&bdquo;factory&ldquo;** Ordner.
 Möchtest du ein Update machen, dann nimm bitte die Firmware aus dem **&bdquo;sysupgrade&ldquo;** Ordner.
 Bist du dir unsicher kannst [kontaktiere uns bitte](/kontakt).
+
+{% include firmwareform.html %}
+
 
 ### Strom
 
@@ -78,12 +81,9 @@ Es wird komplett alles in Freifunk Mittelsachsen investiert.
 Es gibt noch ein paar Anleitungsvideos, welche wir gern empfehlen möchten:
 
 
-
-
 ##### Router mit Freifunk-Firmware (Gluon) flashen | Tutorial | Freifunkthek #####
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dI5JcmURtEM" frameborder="0" allowfullscreen></iframe>
-
 
 
 ##### Ghetto-Outdoor-Gehäuse bauen | Tutorial | Freifunkthek #####
@@ -95,7 +95,6 @@ Es gibt noch ein paar Anleitungsvideos, welche wir gern empfehlen möchten:
 ##### Freifunk-Router richtig einrichten (Gluon) | Tutorial | Freifunkthek #####
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tueVWUisvWI" frameborder="0" allowfullscreen></iframe>
-
 
 <a title="CC BY-SA Freifunk Dresden" href="http://creativecommons.org/licenses/by-sa/3.0/">
 <img src="/img/by-sa.svg">
