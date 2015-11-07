@@ -8,8 +8,8 @@ order: 30
 Bei Freifunk mitzumachen geht so:
 
 
-* [Einen eigenen Router betreiben](#router-aufstellen)
-* [Dein hohes Dach/hohes Gebäude zur Verfügung stellen](#dein-hohes-dachgebude-fr-freifunk)
+* [Einen eigenen Router betreiben](#router-betreiben)
+* [Dein hohes Dach/hohes Gebäude zur Verfügung stellen](#dein-hohes-dachgebude-fr-freifunk-mittelsachsen)
 * [Kosten decken - Spenden](#spenden)
 * [Anleitungsvideos](#videos)
 
