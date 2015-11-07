@@ -10,19 +10,19 @@
     {% endfor %}
   </ul>
 
-
-  <iframe width="300" height="181" src="https://www.youtube.com/embed/2Z12OjnPADA" frameborder="0" allowfullscreen></iframe>
-  <p>
-    <a href="https://vimeo.com/64814620">Freifunk verbindet!</a> from
-    <a href="https://vimeo.com/kosmonautensofa">Philipp Seefeldt</a> on
-    <a href="https://vimeo.com">Vimeo</a>.
-  </p>
-  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/freifunkmtl" data-widget-id="637977000389517312">
-    Tweets von Freifunk Waldheim
-  </a>
-  <script>
-    !function(d,s,id){
-      var  js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-  </script>
-
+  {% if jekyll.environment == 'production' %}
+    <iframe width="300" height="181" src="https://www.youtube.com/embed/2Z12OjnPADA" frameborder="0" allowfullscreen></iframe>
+    <p>
+      <a href="https://vimeo.com/64814620">Freifunk verbindet!</a> from
+      <a href="https://vimeo.com/kosmonautensofa">Philipp Seefeldt</a> on
+      <a href="https://vimeo.com">Vimeo</a>.
+    </p>
+    <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/freifunkmtl" data-widget-id="637977000389517312">
+      Tweets von Freifunk Waldheim
+    </a>
+    <script>
+      !function(d,s,id){
+        var  js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+  {% endif %}
 </aside>
