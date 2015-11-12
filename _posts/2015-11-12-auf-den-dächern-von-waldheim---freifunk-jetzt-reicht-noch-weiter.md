@@ -8,7 +8,6 @@ tags: [Waldheim]
 <figure class="figure pull-right m-l m-b">
   <img src="/img/lindenplatz1-news/IMG_4302thumb2.jpg" class="img-responsive">
 </figure>
-
 Heute war ein guter Tag. Wir haben heute einen strategisch guten Standpunkt für das Freifunk Netzwerk in Betrieb nehmen können.
 
 Auf dem Lindenplatz, auf dem wohl höchsten Gebäude von Waldheim (der Ausblick ist fantastisch), wurden
