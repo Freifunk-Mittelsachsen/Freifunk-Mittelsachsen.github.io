@@ -2,7 +2,7 @@
 title: "Auf den Dächern von Waldheim - Freifunk jetzt reicht noch weiter"
 layout: post
 date: 2015-11-12 19:50:17   
-categories: waldheim
+categories: news
 tags: [Waldheim]
 ---
 <figure class="figure pull-right m-l m-b">
