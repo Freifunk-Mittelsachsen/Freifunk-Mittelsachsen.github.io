@@ -21,3 +21,7 @@ Wenn Du nicht dort wohnst, aber jemand kennst der helfen könnte, sprich ihn bit
 Natürlich ist auch jeder andere Freifunkknoten, egal wo, willkommen.
 
 Melde Dich unkompliziert über [Facebook oder per Mail](/kontakt).
+
+**→ Update 14.11.2015 ←**
+
+Wir haben durch unseren [neuen tollen Antennenstandort](/news/2015/11/12/auf-den-d%C3%A4chern-von-waldheim---freifunk-jetzt-reicht-noch-weiter.html) keinen Engpass mehr. Allerdings könnt Ihr gern euch [einen Router hinstellen](/mitmachen) und am Freifunk Netzwerk teilnehmen.
