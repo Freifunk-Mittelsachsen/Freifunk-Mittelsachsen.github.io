@@ -55,7 +55,6 @@ class FirmwareChoose
         manufacterer = jQuery("#manufacterer").val()
         # hw revisionen aus dem json
         #TODO reverse sortieren geht noch nciht bei loco
-        console.log routertype
         hw_versions = window.ffmsconfig.manufacterer[manufacterer].router[routertype].hw_version.reverse()
 
         jQuery.each hw_versions, (index) ->
