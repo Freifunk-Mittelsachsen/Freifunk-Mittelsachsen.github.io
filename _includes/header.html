@@ -20,6 +20,14 @@
       <div class="collapse navbar-toggleable-sm" id="exCollapsingNavbar2">
         <div class="container">
           <ul class="nav navbar-nav ff-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}">
+                <i class="hidden-sm-down fa fa-home"></i>
+                <span class="hidden-md-up">
+                  News
+                </span>
+              </a>
+            </li>
             {% assign pages = site.pages | sort: "order" %}
             {% for page in pages %}
               {% unless page.url contains 'stadt' %}
