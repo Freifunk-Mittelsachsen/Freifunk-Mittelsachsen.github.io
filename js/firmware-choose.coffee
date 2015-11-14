@@ -20,38 +20,55 @@ class FirmwareChoose
     hw_version = []
     _this = this
 
+    # formular füllen
     jQuery.each window.ffmsconfig, (key,val) ->
       if key == "city"
         _this.appendToSelect("city",val)
 
       else if key == "manufacterer"
-        _this.appendToSelect("manufacterer",val)
+        jQuery.each val, (manukey,manuval) ->
+          # damit appendToSelect die werte verarbeiten kann
+          mf = { "#{manukey}": window.ffmsconfig.manufacterer[manukey].name }
+          _this.appendToSelect("manufacterer",mf)
 
-      else if key == "router"
-        jQuery.each val, (key,router) ->
-          name = router["name"]
-          jQuery("<option value=\"#{key}\">#{name}</option>").appendTo("#routertype")
+    # callback um die verfügbaren router bei herstellerwechsel zu ändern
+    jQuery("#manufacterer").on "change", (event) ->
+      manufacterer = event.currentTarget.value
+      # routertypen leer machen
+      jQuery("#routertype").empty()
+      routertypes = []
+      routers = window.ffmsconfig.manufacterer[manufacterer].router
+      jQuery.each routers, (key,value) ->
+        jQuery("#routertype").append("<option value=\"#{key}\">#{value["name"]}</option>")
 
+      _this.selectFirst("#routertype")
+      jQuery("#routertype").trigger("change")
 
+    # callback um die verfügbaren hardwareversionen rauszusuchen
     jQuery("#routertype").on "change", (event) ->
       routertype = event.currentTarget.value
       # select leer machen
       jQuery("#hw-version").empty()
+      # routertype ist beim ersten aufruf leer
+      if routertype
 
-      # hw revisionen aus dem json
-      #TODO reverse sortieren geht noch nciht bei loco
-      hw_versions = window.ffmsconfig["router"][routertype]["hw_version"].reverse()
+        manufacterer = jQuery("#manufacterer").val()
+        # hw revisionen aus dem json
+        #TODO reverse sortieren geht noch nciht bei loco
+        console.log routertype
+        hw_versions = window.ffmsconfig.manufacterer[manufacterer].router[routertype].hw_version.reverse()
 
-      jQuery.each hw_versions, (index) ->
-        # select leer machen und mit aktuellen werten füllen
-        hw_version = @[0]
-        jQuery("#hw-version").append("<option value=\"#{hw_version}\">#{hw_version}</option>")
+        jQuery.each hw_versions, (index) ->
+          # select leer machen und mit aktuellen werten füllen
+          hw_version = @[0]
+          jQuery("#hw-version").append("<option value=\"#{hw_version}\">#{hw_version}</option>")
 
-      # und wenn wir fertig sind das erste auswählen
-      _this.selectFirst("#hw-version")
+        # und wenn wir fertig sind das erste auswählen
+        _this.selectFirst("#hw-version")
 
     # einmaliges triggern des changeevents
-    jQuery("#routertype").trigger("change")
+    jQuery("#manufacterer").trigger("change")
+    @selectFirst("#manufacterer")
     @selectFirst("#routertype")
     @selectFirst("#hw-version")
 
@@ -76,12 +93,17 @@ class FirmwareChoose
     routertype = $(form).find("#routertype").val()
     hw_version = $(form).find("#hw-version").val()
     installation_type = $(form).find("input[name=installtype]:checked").val()
-    revision = window.ffmsconfig["revision"]
-    downloadpath = "#{city}/#{installation_type}/#{revision}-#{manufacterer}-#{routertype}-v#{hw_version}.bin"
+    revision = window.ffmsconfig.revision
+
+    # wenn gesonderte images für router benutzt werden müssen
+    unless firmware_image = window.ffmsconfig.manufacterer[manufacterer].router[routertype].image-name
+      firmware_image = "#{routertype}-v#{hw_version}"
+
+    downloadpath = "#{city}/#{installation_type}/#{revision}-#{manufacterer}-#{firmware_image}.bin"
 
     downloadurl = "http://#{@downloadHost}/#{downloadpath}"
     # link erzeugen und ausklappen
-    jQuery("#downloadlink").html("<a class=\"btn btn-success\" href=\"#{downloadurl}\">Firmware #{window.ffmsconfig["router"][routertype]["name"]}</a>")
+    jQuery("#downloadlink").html("<a class=\"btn btn-success\" href=\"#{downloadurl}\">Firmware #{window.ffmsconfig.manufacterer[manufacterer].router[routertype].name}</a>")
     jQuery("#dlcollapse").collapse('show')
 
 

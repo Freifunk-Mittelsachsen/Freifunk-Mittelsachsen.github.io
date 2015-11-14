@@ -6,21 +6,24 @@ ffmsconfig = {
     "doebeln": "Döbeln"
   },
   "manufacterer": {
-    "tp-link": "TP-Link",
-    "ubiquiti": "Ubiquiti"
-  },
-  "router": {
-    "tl-wr841n-nd": {
-      "name": "WR-841ND",
-      "hw_version": [
-        "1","2","3","4","5","6","7","8","9"
-      ]
+    "tp-link": {
+      "name": "TP-Link",
+      "router": {
+        "tl-wr841n-nd": {
+          "name": "WR-841ND",
+          "hw_version": ["1","2","3","4","5","6","7","8","9"]
+        }
+      }
     },
-    "m2loco": {
-      "name": "M2 Loco",
-      "hw_version": [
-        "1","2"
-      ]
+    "ubiquiti": {
+      "name": "Ubiquiti",
+      "router":  {
+        "m2loco": {
+          "name": "M2 Loco",
+          "hw_version": ["1","2"],
+          "image-name": "bullet-m"
+        }
+      }
     }
   }
 }
