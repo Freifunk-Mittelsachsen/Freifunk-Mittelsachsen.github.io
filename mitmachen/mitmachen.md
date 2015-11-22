@@ -27,7 +27,10 @@ Hier eine Liste der getesteten Router. Für diese können wir garantieren, dass 
 {% include routerliste.html %}
 
 ### Kann ich den Router schon fertig funktionierend irgendwo kaufen?
-Wir können auf deinen Router die richtige Software/Firmware aufspielen und alles einrichten.
+Ja. Wir können Router fertig konfiguriert zum Selbstkostenpreis zur Verfügung stellen.
+Du kannst uns auch deinen Router vorbei bringen (nur die oben aufgelisteten Modelle) und wir
+richten das mit dir zusammen ein.
+
 [Kontaktiere uns bitte](/kontakt).
 
 ### Software / Freifunk-Firmware
