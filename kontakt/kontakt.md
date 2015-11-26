@@ -19,7 +19,7 @@ Kontakt für Presse und Öffentlichkeitsarbeit:
 
 Technische Leitung und Organisation:  
 **David Noelte** <david@freifunk-mittelsachsen.de>  
-Twitter: @davenoelte  
+Twitter: [@davenoelte](https://twitter.com/davenoelte)  
 
 Betreuung Webseite & Werbung:  
 **Oliver Dumat** <olli@freifunk-mittelsachsen.de>
