@@ -1,5 +1,5 @@
 ---
-title: "Auf den Dächern von Waldheim - Freifunk jetzt reicht noch weiter"
+title: "Auf den Dächern von Waldheim - Freifunk reicht jetzt noch weiter"
 layout: post
 date: 2015-11-12 19:50:17   
 categories: news
