@@ -12,3 +12,14 @@ Wir sind über mehrere Kanäle zu erreichen:
 * <i class="fa fa-facebook"></i> Facebook: [Freifunk Waldheim Facebook Gruppe](https://www.facebook.com/groups/FreifunkMittelsachsen/)
 * <i class="fa fa-envelope"></i> Fragen an [kontakt@freifunk-mittelsachsen.de](mailto://kontakt@freifunk-mittelsachsen.de)
 * <i class="fa fa-comment"></i> IRC Chat: [#freifunkwdh@irc.hackint.org](http://freifunk-waldheim.de:7778)
+
+
+Kontakt für Presse und Öffentlichkeitsarbeit:  
+**Dominic Ernst** <dominic@freifunk-mittelsachsen.de>
+
+Technische Leitung und Organisation:  
+**David Noelte** <david@freifunk-mittelsachsen.de>  
+Twitter: @davenoelte  
+
+Betreuung Webseite & Werbung:  
+**Oliver Dumat** <olli@freifunk-mittelsachsen.de>
