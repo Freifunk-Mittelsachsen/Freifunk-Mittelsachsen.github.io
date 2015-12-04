@@ -23,16 +23,16 @@ Döbeln und Mittweida.
 
 Dank für jegliche Unterstützung geht dabei an:
 
-- [Dierbooks](www.dierbooks-waldheim.de)
-- [BKD Reuter](www.bkd.aetka.de)
-- [Stadtverwaltung Waldheim](www.stadt-waldheim.de)
-- [Ernst's Eiscafe](www.ernst-eis-cafe.de/)
+- [Dierbooks](http://www.dierbooks-waldheim.de)
+- [BKD Reuter](http://www.bkd.aetka.de)
+- [Stadtverwaltung Waldheim](http://www.stadt-waldheim.de)
+- [Ernst's Eiscafe](http://www.ernst-eis-cafe.de/)
 - Charlies Imbiss
-- [Kunstgriff Veranstaltungstechnik]( www.kunstgriff.eu )
+- [Kunstgriff Veranstaltungstechnik](http://www.kunstgriff.eu )
 
 und an allen anderen die uns in sonstiger Art und Weise unterstützt haben!
 
 Viel Spaß auf dem Waldheimer Weihnachtsmarkt und unserem kostenlosen WLAN,   
 das Freifunk Mittelsachsen Team
 
-[www.freifunk-mittelsachsen.de](www.freifunk-mittelsachsen.de)
+[www.freifunk-mittelsachsen.de](http://www.freifunk-mittelsachsen.de)
