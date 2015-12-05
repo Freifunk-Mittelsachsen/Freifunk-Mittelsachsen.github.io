@@ -15,6 +15,6 @@ Mitmachen kann aber jeder. Die notwendigen [Routermodelle](/mitmachen/) sind bei
 Bald wird auch unsere eigene Software für die Router hier online zum Download zur Verfügung gestellt werden.
 
 Wenn Ihr Fragen habt oder einfach nur mal mit uns quatschen wollt dann ist das über [Facebook](https://www.facebook.com/groups/FreifunkMittelsachsen/) oder [Twitter](https://twitter.com/freifunkmtl)
-oder auch per [Chat](http://freifunk-waldheim:7778/) möglich. Man muss kein Computerfreak oder so sein um mit zu machen - bei uns ist jeder willkommen der offen ist Neues zu lernen denn lernen wird man genug können.
+oder auch per [Chat](http://freifunk-waldheim.de:7778/) möglich. Man muss kein Computerfreak oder so sein um mit zu machen - bei uns ist jeder willkommen der offen ist Neues zu lernen denn lernen wird man genug können.
 
 Viel Spaß am Gerät \*wink\* :-)
