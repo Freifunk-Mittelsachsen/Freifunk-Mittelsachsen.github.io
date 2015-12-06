@@ -1,6 +1,7 @@
 ---
 title:
 layout: post
-date:   
-categories: waldheim
+date:
+categories: news
+tags: [Waldheim]
 ---
