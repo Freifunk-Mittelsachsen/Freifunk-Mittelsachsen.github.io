@@ -27,10 +27,11 @@ Hier eine Liste der getesteten Router. Für diese können wir garantieren, dass 
 {% include routerliste.html %}
 
 ### Kann ich den Router schon fertig funktionierend irgendwo kaufen?
-Ja. Du kannst uns deinen Router vorbei bringen (nur die oben aufgelisteten Modelle) und wir
+Ja - bei uns. Du kannst jeden Router in der Liste fertig konfiguriert bei uns zum Selbstkostenpreis kaufen - nimm
+bitte mit uns [Kontakt auf](/kontakt)
+Alternativ kannst uns deinen Router vorbei bringen (nur die oben aufgelisteten Modelle) und wir
 richten das mit dir zusammen (oder auch ohne dich ;-)) ein.
 
-[Kontaktiere uns bitte](/kontakt).
 
 ### Software / Freifunk-Firmware
 
