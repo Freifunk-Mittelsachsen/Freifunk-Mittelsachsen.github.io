@@ -38,7 +38,8 @@ richten das mit dir zusammen (oder auch ohne dich ;-)) ein.
 Damit Dein Freifunk-Router mit anderen Freifunk-Routern sprechen kann brauchst Du die aktuelle Firmware für Freifunk deiner Stadt. Die kannst du
 hier herunter laden:
 
-- [Firmware- Archiv für Waldheim](http://firmware.freifunk-waldheim.de/waldheim)
+- [Firmware für Waldheim](http://firmware.freifunk-waldheim.de/waldheim)
+
 
 **Was soll ich downloaden?**
 Hast du einen Router der noch die Firmware vom Hersteller drauf hat, dann nimm bitte die entsprechende Firmware aus dem **&bdquo;factory&ldquo;** Ordner.
