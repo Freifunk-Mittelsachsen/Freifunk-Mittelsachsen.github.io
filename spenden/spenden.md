@@ -50,5 +50,5 @@ Vielen Dank!
   </tbody>
 </table>
 
-Spenden gehen über http://www.donation-tracker.com/u/ffmisax . Bestehen Fragen? Bitte eine kurze Email an
-[spenden@freifunk-mittelsachsen.de](spenden@freifunk-mittelsachsen.de) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt)
+Spenden gehen über [www.donation-tracker.com/u/ffmisax](http://www.donation-tracker.com/u/ffmisax) . Bestehen Fragen? Bitte eine kurze Email an
+[spenden@freifunk-mittelsachsen.de](spenden@freifunk-mittelsachsen.de) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt) - wir werden uns so schnell wie möglich melden.
