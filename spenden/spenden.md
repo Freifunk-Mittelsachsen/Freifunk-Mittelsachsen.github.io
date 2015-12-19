@@ -33,7 +33,7 @@ Vielen Dank!
     <tr>
       <td>13.12.2015</td>
       <td>Robert Kademann</td>
-      <td>149.59€</td>
+      <td>149.50€</td>
     </tr>
 
     <tr>
