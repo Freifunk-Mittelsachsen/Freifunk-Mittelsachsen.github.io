@@ -1,7 +1,7 @@
 ---
 layout: default
 order: 59
-title: Senden
+title: Spenden
 permalink: /spenden/
 ---
 
