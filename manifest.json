@@ -1,0 +1,18 @@
+{
+  "start_url": "http://www.freifunk-mittelsachsen.de",
+  "short_name": "Freifunk Mittelsachsen",
+  "icons": [
+
+        {
+          "src": "/img/highres-favicon.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "density": "4.0"
+        }
+
+
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "any"
+}
