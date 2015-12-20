@@ -2,6 +2,17 @@
 ---
 @import "bootstrap-v4/bootstrap";
 
+::-moz-selection {
+    background: #dc0067; /* freifunk magenta */
+    color: #ffffff; /* white */
+    text-shadow: none;
+}
+
+::selection {
+    background: #dc0067; /* freifunk magenta */
+    color: #ffffff; /* white */
+    text-shadow: none;
+}
 
 .fa.fa-wifi.fa-bg {
   color: #e6faff;
