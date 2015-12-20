@@ -52,7 +52,11 @@ Natürlich wird etwas Strom benötigt. Das sind durchschnittlich 5-10 Watt pro R
 gleich einen Mehrfachverteiler mit zu nutzen. Damit wird verhindert, dass Router vom Netz gehen und
 vergessen werden wieder reinzustecken o.ä.
 
-
+### Wie komme ich in den Konfigurationsmodus
+Du musst das Netzwerkkabel deines Computers in eine gelbe Buchse deines Routers stecken (also auf jeden fall nicht in
+  die WAN Buchse sonst funktioniert es nicht). Dann drückst du die Reset-Taste deines Routers so lange bis alle Lampen
+  kurz aufleuchten. Anschließend gibst du in deinem Internet Browser [http://192.168.1.1](http://192.168.1.1) ein. Du solltest nun
+  die Webseite deines Freifunk Routers sehen.
 
 
 ## Dein hohes Dach/Gebäude für Freifunk Mittelsachsen
