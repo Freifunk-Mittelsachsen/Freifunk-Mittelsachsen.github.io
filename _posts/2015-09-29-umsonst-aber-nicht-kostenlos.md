@@ -3,7 +3,7 @@ title: "Umsonst aber nicht kostenlos"
 layout: post
 date: 2015-09-29 09:13:00
 categories: News
-Tags: [Waldheim,Alle]
+Tags: [Waldheim]
 ---
 Die _Nutzung_ von Freifunk ist _kostenlos_. Das _Mitmachen_ bei Freifunk ist auch _kostenlos_.
 **Aber** Kosten entstehen bei dem Betrieb von Freifunk. Warum?

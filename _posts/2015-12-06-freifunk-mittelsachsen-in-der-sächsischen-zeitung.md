@@ -3,7 +3,6 @@ title: "Freifunk Mittelsachsen in der Sächsischen Zeitung"
 layout: post
 date: 2015-12-06 17:07:19
 categories: news
-tags: [Alle]
 ---
 
 Die [Sächsische Zeitung](http://www.sz-online.de) hat Dominic Ernst, unseren Kontakt für Presse- und Öffentlichkeitsarbeit,

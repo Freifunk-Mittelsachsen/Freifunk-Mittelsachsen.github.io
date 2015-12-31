@@ -8,6 +8,12 @@
 
   <h4>Städte</h4>
   <ul class="list-unstyled">
+    <li>
+      <a href="/">
+        Alle
+      </a>
+    </li>
+
     {% for city in site.tags %}
        <li>
          <a href="{{ city[0] | downcase | prepend: "/stadt/" | prepend: site.baseurl }}">

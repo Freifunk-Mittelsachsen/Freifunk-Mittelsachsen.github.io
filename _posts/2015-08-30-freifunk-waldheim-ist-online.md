@@ -3,7 +3,7 @@ title: "Freifunk Mittelsachsen ist online"
 layout: post
 date: 2015-08-30 15:57:09
 categories: News
-tags: [Waldheim,Alle]
+tags: [Waldheim]
 ---
 Hallo Liebe Leute,
 nun ist die Webseite für Freifunk Mittelsachsen online. Ein kleiner Schritt für ein selbstverwaltetes Netzwerk
