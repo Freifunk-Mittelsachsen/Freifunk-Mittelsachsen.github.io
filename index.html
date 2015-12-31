@@ -9,7 +9,9 @@ layout: default
       <li>
         <span class="post-meta">
           {% include post_date.html page_item=post %}
-          <strong>Stadt: {{ post.tags | join: ", " }}</strong>
+          {% if post.tags.size > 0 %}
+            - <strong>Stadt: {{ post.tags | join: ", " }}</strong>
+          {% endif %} -
           Kategorie(n): {{ post.categories }}
         </span>
         {% include list_post.html %}

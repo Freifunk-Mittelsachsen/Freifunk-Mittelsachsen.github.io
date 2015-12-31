@@ -6,9 +6,12 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
-      {% include post_date.html page_item=page %}
+        {% include post_date.html page_item=page %}
 
-      {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+        {% if page.author %} • {{ page.author }}{% endif %}
+
+        {% if page.meta %} • {{ page.meta }}{% endif %}
+      </p>
   </header>
 
   <div class="post-content">
