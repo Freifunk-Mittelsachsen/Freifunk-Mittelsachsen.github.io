@@ -8,9 +8,7 @@ layout: default
     {% for post in site.posts %}
       <li>
         <span class="post-meta">
-          <time datetime="{{ post.date | %Y-%m-%d %H:%M+01:00 }}">
-                   {{ post.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" }}
-          </time>
+          {% include post_date.html page_item=post %}
           <strong>Stadt: {{ post.tags | join: ", " }}</strong>
           Kategorie(n): {{ post.categories }}
         </span>

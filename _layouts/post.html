@@ -6,9 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
-      <time datetime="{{ post.date | %Y-%m-%d %H:%M+01:00 }}">
-               {{ page.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace: "October", "Oktober" | replace:"December","Dezember" }}
-      </time>
+      {% include post_date.html page_item=page %}
 
       {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>

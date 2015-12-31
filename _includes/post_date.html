@@ -1,0 +1,3 @@
+<time datetime="{{ include.page_item.date | %Y-%m-%d %H:%M+01:00 }}">
+         {{ include.page_item.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace: "October", "Oktober" | replace:"December","Dezember" }}
+</time>

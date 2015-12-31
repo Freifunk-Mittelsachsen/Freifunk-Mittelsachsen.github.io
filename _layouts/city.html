@@ -7,10 +7,8 @@ layout: default
 <ul class="post-list list-unstyled">
   {% for post in site.tags[page.tag] %}
     <li>
+      {% include post_date.html page_item=post %}
 
-      <time datetime="{{ post.date | %Y-%m-%d %H:%M+01:00 }}">
-               {{ post.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" }}
-      </time>
       {% include list_post.html %}
     </li>
   {% endfor %}
