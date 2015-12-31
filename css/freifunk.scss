@@ -77,6 +77,12 @@
   width: 2rem;
 }
 
+.pp {
+  background: #fff none repeat scroll 0 0;
+  color: #0275d8;
+  padding: 4px;
+
+}
 
 @media (max-width: map-get($grid-breakpoints,"md")) {
   .site-title {

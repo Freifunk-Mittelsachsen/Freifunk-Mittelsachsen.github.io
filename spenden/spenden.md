@@ -50,5 +50,20 @@ Vielen Dank!
   </tbody>
 </table>
 
-Spenden gehen über [www.donation-tracker.com/u/ffmisax](http://www.donation-tracker.com/u/ffmisax) . Bestehen Fragen? Bitte eine kurze Email an
-[spenden@freifunk-mittelsachsen.de](spenden@freifunk-mittelsachsen.de) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt) - wir werden uns so schnell wie möglich melden.
+Spenden gehen über [www.donation-tracker.com/u/ffmisax](http://www.donation-tracker.com/u/ffmisax) . Bestehen Fragen? Bitte eine kurze Email an [spenden@freifunk-mittelsachsen.de](spenden@freifunk-mittelsachsen.de) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt) - wir werden uns so schnell wie möglich melden.
+
+Über Paypal kann man uns auch ganz einfach eine kleine Spende zukommen lassen.
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_donations">
+  <input type="hidden" name="business" value="david.noelte@gmx.de">
+  <input type="hidden" name="lc" value="DE">
+  <input type="hidden" name="item_name" value="Freifunk Mittelsachsen">
+  <input type="hidden" name="no_note" value="0">
+  <input type="hidden" name="currency_code" value="EUR">
+  <input type="hidden" name="bn" value="PP-DonationsBF:spenden_button.png:NonHostedGuest">
+  <button type="submit" class="btn btn-primary" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
+    Jetzt an Freifunk Mittelsachsen spenden
+    <i class="fa fa-paypal pp"></i>
+  </button>
+  <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
+</form>
