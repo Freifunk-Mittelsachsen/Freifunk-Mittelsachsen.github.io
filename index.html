@@ -5,7 +5,7 @@ layout: default
 
   <h1 class="page-heading h3">Aktuelles</h1>
   <ul class="post-list list-unstyled">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <span class="post-meta">
           {% include post_date.html page_item=post %}
@@ -16,6 +16,9 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+
+  {% include paginator_snippet.html %}
+
 
   <p class="rss-subscribe">
     automatisch auf dem Laufenden <a href="{{ "/feed.xml" | prepend: site.baseurl }}">mit RSS</a>

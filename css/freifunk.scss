@@ -61,6 +61,16 @@
   margin-bottom: 2rem;
 }
 
+.pagination > li:first-child > a,
+.pagination > li:first-child > span,
+.pagination > li > a,
+.pagination > li > span,
+.pagination > li:last-child > a,
+.pagination > li:last-child > span {
+  border-radius: 0px;
+  border-color: #F8BBD5;
+}
+
 @media (max-width: map-get($grid-breakpoints,"md")) {
   .site-title {
     font-size: 1rem;

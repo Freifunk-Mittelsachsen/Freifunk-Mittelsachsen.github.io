@@ -11,6 +11,9 @@ twitter_username: freifunkmtl
 github_username:  Freifunk-Mittelsachsen
 exclude: [Rakefile,  docs/*, templates/*]
 
+paginate: 7
+paginate_path: "/news/page:num/"
+
 # Build settings
 markdown: kramdown
 

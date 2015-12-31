@@ -1,0 +1,62 @@
+{% if paginator.total_pages > 1 %}
+  <nav>
+    <ul class="pagination">
+      {% if paginator.previous_page %}
+        <li class="page-item">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+            <span aria-hidden="true">&laquo;</span>
+            <span class="sr-only"> Zurück</span>
+          </a>
+        </li>
+      {% else %}
+        <li class="page-item disabled">
+          <a class="page-link" href="#" aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+            <span class="sr-only"> Zurück</span>
+          </a>
+        </li>
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <li class="page-item active">
+              <a class="page-link" href="#">
+                <em>{{ page }}</em>
+                <span class="sr-only">Aktuelle seite</span>
+              </a>
+          </li>
+        {% elsif page == 1 %}
+          <li class="page-item">
+              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+                {{ page }}
+              </a>
+          </li>
+
+        {% else %}
+          <li class="page-item">
+            <a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">
+              {{ page }}
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <li class="page-item">
+          <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+            <span class="sr-only">Weiter</span>
+            <span aria-hidden="true">&raquo;</span>
+          </a>
+        </li>
+      {% else %}
+        <li class="page-item disabled">
+            <a class="page-link" href="#">
+              <span class="sr-only">Weiter</span>
+              <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+
+      {% endif %}
+    </ul>
+  </nav>
+{% endif %}
