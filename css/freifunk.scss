@@ -51,11 +51,6 @@
   }
 }
 
-.site-footer .fa {
-  font-size: 1.5rem;
-  display: inline-block;
-  width: 2rem;
-}
 
 .post-list > li {
   margin-bottom: 2rem;
@@ -70,6 +65,18 @@
   border-radius: 0px;
   border-color: #F8BBD5;
 }
+
+
+.site-footer {
+  background-color: rgba(255,255,255,0.7);
+}
+
+.site-footer .fa {
+  font-size: 1.5rem;
+  display: inline-block;
+  width: 2rem;
+}
+
 
 @media (max-width: map-get($grid-breakpoints,"md")) {
   .site-title {
