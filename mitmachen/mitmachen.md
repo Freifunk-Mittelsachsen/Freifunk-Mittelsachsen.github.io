@@ -38,7 +38,12 @@ richten das mit dir zusammen (oder auch ohne dich ;-)) ein.
 Damit Dein Freifunk-Router mit anderen Freifunk-Routern sprechen kann brauchst Du die aktuelle Firmware für Freifunk deiner Stadt. Die kannst du
 hier herunter laden:
 
-- [Firmware für Waldheim](http://firmware.freifunk-waldheim.de/waldheim)
+- [Firmware für Waldheim](http://firmware.freifunk-mittelsachsen.de/stable/waldheim/)
+- [Firmware für Hartha](http://firmware.freifunk-mittelsachsen.de/stable/hartha/)
+- [Firmware für Leisnig](http://firmware.freifunk-mittelsachsen.de/stable/leisnig/)
+- [Firmware für Döbeln](http://firmware.freifunk-mittelsachsen.de/stable/doebeln/)
+- [Firmware für Mittweida](http://firmware.freifunk-mittelsachsen.de/stable/mittweida/)
+
 
 
 **Was soll ich downloaden?**
