@@ -6,13 +6,9 @@
 {% endcapture %}
 
 <h2 class="h4">
-  {% unless excerpt_words == content_words %}
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-  {% endunless %}
     {{ post.title }}
-  {% unless excerpt_words == content_words %}
     </a>
-  {% endunless %}
 </h2>
 <p>
   {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
