@@ -1,11 +1,24 @@
+{% capture content_words %}
+  {{ post.content | number_of_words }}
+{% endcapture %}
+{% capture excerpt_words %}
+  {{ post.excerpt | number_of_words }}
+{% endcapture %}
+
 <h2 class="h4">
-  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+  {% unless excerpt_words == content_words %}
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+  {% endunless %}
     {{ post.title }}
-  </a>
+  {% unless excerpt_words == content_words %}
+    </a>
+  {% endunless %}
 </h2>
 <p>
   {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 </p>
-<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-  Mehr lesen
-</a>
+{% unless excerpt_words == content_words %}
+  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+    Mehr lesen
+  </a>
+{% endunless %}
