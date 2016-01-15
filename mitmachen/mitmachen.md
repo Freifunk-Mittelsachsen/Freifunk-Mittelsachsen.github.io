@@ -39,10 +39,11 @@ Damit Dein Freifunk-Router mit anderen Freifunk-Routern sprechen kann brauchst D
 hier herunter laden:
 
 - [Firmware für Waldheim](http://firmware.freifunk-mittelsachsen.de/stable/waldheim/)
-- [Firmware für Hartha](http://firmware.freifunk-mittelsachsen.de/stable/hartha/)
-- [Firmware für Leisnig](http://firmware.freifunk-mittelsachsen.de/stable/leisnig/)
-- [Firmware für Döbeln](http://firmware.freifunk-mittelsachsen.de/stable/doebeln/)
-- [Firmware für Mittweida](http://firmware.freifunk-mittelsachsen.de/stable/mittweida/)
+- [Firmware für Hartha (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/hartha/)
+- [Firmware für Leisnig (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/leisnig/)
+- [Firmware für Döbeln (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/doebeln/)
+- [Firmware für Mittweida (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/mittweida/)
+- [Firmware für Oschatz (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/oschatz/)
 
 
 
