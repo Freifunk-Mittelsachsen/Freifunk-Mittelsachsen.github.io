@@ -43,6 +43,7 @@ hier herunter laden:
 - [Firmware für Leisnig](http://firmware.freifunk-mittelsachsen.de/stable/leisnig/)
 - [Firmware für Döbeln](http://firmware.freifunk-mittelsachsen.de/stable/doebeln/)
 - [Firmware für Mittweida](http://firmware.freifunk-mittelsachsen.de/stable/mittweida/)
+- [Firmware für Oschatz](http://firmware.freifunk-mittelsachsen.de/stable/oschatz/)
 
 
 
