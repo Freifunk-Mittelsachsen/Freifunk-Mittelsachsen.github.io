@@ -27,3 +27,6 @@ Twitter: [@davenoelte](https://twitter.com/davenoelte)
 
 Betreuung Webseite & Werbung:  
 **Oliver Dumat** <olli@freifunk-mittelsachsen.de>
+
+Betreuung von Freifunk in Leisnig:
+**Jan Brettschneider** <jan@freifunk-mittelsachsen.de>
