@@ -5,33 +5,6 @@ permalink: /kontakt/
 order: 50
 ---
 
-## Impressum
-**Angaben gemäß § 5 TMG**
-
-Förderverein Freifunk Mittelsachsen
-c/o Nölte
-Breitscheitstraße 1
-04736 Waldheim
-
-**Vertreten durch den Vorstand**
-- David Nölte
-- Dominic Ernst
-- Detlef Nölte
-- Jan Brettschneider
-
-
-<!--
-**Registereintrag**
-Registergericht: Amtsgericht Chemnitz
-Registernummer: VR 22961
-
-
-**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**
-
--->
-
-
-
 Wir sind über mehrere Kanäle zu erreichen:
 
 
