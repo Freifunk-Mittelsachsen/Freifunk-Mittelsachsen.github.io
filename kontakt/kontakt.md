@@ -14,6 +14,7 @@ Lansberger Straße 22
 04736 Waldheim
 
 **Vertreten durch den Vorstand**
+
 - David Nölte (Vorsitzender)
 - Dominic Ernst (stellvertretender Vorsitzender)
 - Detlef Nölte (Kassenwart)
@@ -37,6 +38,8 @@ Oliver Dumat
 
 
 
+
+##### persönl. Kontakt
 
 Kontakt für Presse und Öffentlichkeitsarbeit:  
 **Dominic Ernst** <dominic@freifunk-mittelsachsen.de>
