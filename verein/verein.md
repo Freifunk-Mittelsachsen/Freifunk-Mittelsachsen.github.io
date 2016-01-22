@@ -1,16 +1,10 @@
 ---
 layout: page
-<<<<<<< HEAD
-title: Über Freifunk Mittelsachsen
-=======
 title: Verein
->>>>>>> 5a65e4828916e2ca762fcddc7d84bf73179b2a13
 permalink: /verein/
 order: 50
 ---
 
-<<<<<<< HEAD
-=======
 # Freifunk Mittelsachsen - der Verein
 
 >>>>>>> 5a65e4828916e2ca762fcddc7d84bf73179b2a13
