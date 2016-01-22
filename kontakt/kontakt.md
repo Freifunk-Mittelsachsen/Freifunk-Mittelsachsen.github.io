@@ -8,10 +8,10 @@ order: 50
 ## Impressum
 **Angaben gemäß § 5 TMG**
 
-Verein Freifunk Mittelsachsen
-c/o Nölte / Ernst
-Lansberger Straße 22
-04736 Waldheim
+Verein Freifunk Mittelsachsen  
+c/o Nölte / Ernst  
+Lansberger Straße 22  
+04736 Waldheim  
 
 **Vertreten durch den Vorstand**
 
