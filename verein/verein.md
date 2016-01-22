@@ -1,10 +1,19 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: Über Freifunk Mittelsachsen
+=======
+title: Verein
+>>>>>>> 5a65e4828916e2ca762fcddc7d84bf73179b2a13
 permalink: /verein/
 order: 50
 ---
 
+<<<<<<< HEAD
+=======
+# Freifunk Mittelsachsen - der Verein
+
+>>>>>>> 5a65e4828916e2ca762fcddc7d84bf73179b2a13
 Am 18.1.2016 gründeten wir uns - den Verein Freifunk Mittelsachsen.
 Wir streben die Gemeinnützigkeit an.
 Vorstand des Vereins sind David Nölte und stellvertretend Dominic Ernst.
