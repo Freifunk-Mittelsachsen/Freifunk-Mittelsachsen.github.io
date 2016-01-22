@@ -1,0 +1,23 @@
+
+- name: News
+  url: /
+  class: hidden-sm-down
+  icon: home
+
+- name: Über Freifunk
+  url: /about
+
+- name: Fragen? Antworten!
+  url: /faq
+
+- name: Mitmachen
+  url: /mitmachen
+
+- name: Spenden
+  url: /spenden
+
+- name: Sponsoren
+  url: /sponsoren
+
+- name: Kontakt
+  url: /kontakt

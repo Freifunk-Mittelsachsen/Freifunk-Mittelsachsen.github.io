@@ -1,0 +1,44 @@
+<nav class="navbar navbar-default bg-faded">
+  <a class="hidden-md-up navbar-brand site-title" href="{{ site.baseurl }}/">
+    <img class="fflogo" src="{{ site.baseurl}}/img/ffms-plain.svg" />
+    {{ site.title }}
+  </a>
+
+
+  <button class="navbar-toggler hidden-md-up pull-right clearfix" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar2">
+    &#9776;
+  </button>
+
+  <div class="collapse navbar-toggleable-sm" id="exCollapsingNavbar2">
+    <div class="container">
+      <ul class="nav navbar-nav ff-nav">
+
+        {% assign pages = site.data.navigation %}
+        {% for page in pages %}
+          {% unless page.url contains 'stadt' %}
+            {% if page.name %}
+              <li class="nav-item {% if forloop.last %} last {% endif %} {% if page.class %} {{ page.class }} {% endif %}" >
+                <a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">
+
+                  {% if page.icon %}
+                    <i class="fa fa-{{ page.icon }}"></i>
+                  {% endif %}
+
+
+                  <span>{{ page.name }}</span>
+
+                </a>
+              </li>
+            {% endif %}
+          {% endunless %}
+        {% endfor %}
+        <li class="nav-item ff-pull-right nodot">
+          <a class="nav-link" href="http://karte.freifunk-mittelsachsen.de/meshviewer">
+            <i class="fa fa-map"></i>
+            Karte
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

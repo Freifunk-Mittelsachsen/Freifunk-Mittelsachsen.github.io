@@ -11,3 +11,8 @@ title: Freifunk Stadtname
 ---
 Hierbei ist die Groß und Kleinschreibung zu beachten. Sollten Stadtnamen aus mehreren, mit Leerzeichen
 getrennten Namen bestehen, wird ein "-" zum Auffüllen der Leerzeichen genutzt
+
+
+In /_data/navigation.yaml werden die Navigationspunkte verwaltet.
+Es gibt die Unterpunkte "name","url" welche unbedingt sein müssen - zusätzlich gibt es "class" für eine Klassenangabe
+und "icon" für das entsprechende fontawesome icon (nur Iconname wie "home" angeben)
