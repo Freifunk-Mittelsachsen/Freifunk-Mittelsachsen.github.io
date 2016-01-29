@@ -44,7 +44,10 @@ hier herunter laden:
 - [Firmware für Döbeln (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/doebeln/)
 - [Firmware für Mittweida (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/mittweida/)
 - [Firmware für Oschatz (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/oschatz/)
-
+- [Firmware für Grimma (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/grimma/)
+- [Firmware für Colditz (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/colditz/)
+- [Firmware für Geringswalde (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/geringswalde/)
+- [Firmware für Ostrau (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/ostrau/)
 
 
 
