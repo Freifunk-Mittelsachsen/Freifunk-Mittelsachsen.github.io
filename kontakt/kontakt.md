@@ -62,7 +62,7 @@ Wir sind außerdem erreichbar über:
 * <i class="fa fa-twitter"></i> Twitter: [@FreifunkMTL](https://twitter.com/freifunkmtl)
 * <i class="fa fa-facebook"></i> Facebook: [Freifunk Mittelsachsen Facebook Gruppe](https://www.facebook.com/groups/FreifunkMittelsachsen/)
 * <i class="fa fa-envelope"></i> Fragen an per Mail [kontakt@freifunk-mittelsachsen.de](mailto://kontakt@freifunk-mittelsachsen.de)
-* <i class="fa fa-comment"></i> IRC Chat: [#freifunkwdh@irc.hackint.org](http://freifunk-waldheim.de:7778)
+
 
 Jabber/XMPP Konferenz:  [freifunkmittelsachsen@conference.freifunk-mittelsachsen.de](xmpp:freifunkmittelsachsen@conference.freifunk-mittelsachsen.de)
  (erreichbar auch von [anderen XMPP/Jabberservern aus](http://xmpp.net))
