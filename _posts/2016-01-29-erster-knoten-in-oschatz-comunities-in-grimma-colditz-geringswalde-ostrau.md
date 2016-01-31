@@ -3,6 +3,7 @@ title: "Erster Knoten in Oschatz - Communities in Grimma, Colditz, Geringswalde 
 layout: post
 date: 2016-01-29 19:43:00
 categories: news
+tags: [Oschatz, Colditz, Grimma, Geringswalde, Ostrau]
 ---
 
 Freifunk Mittelsachsen breitet sich immer weiter aus ohne Kreisgrenzen zu beachten. ;-)  

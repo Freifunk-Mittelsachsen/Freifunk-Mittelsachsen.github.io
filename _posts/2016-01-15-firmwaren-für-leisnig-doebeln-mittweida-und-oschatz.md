@@ -3,6 +3,7 @@ title: "Experimentelle Firmwaren für Leisnig, Döbeln, Mittweida und Oschatz"
 layout: post
 date: 2016-01-15 15:50:58
 categories: news
+tags: [Leisnig, Döbeln, Mittweida, Oschatz]
 ---
 
 Freifunk Mittelsachsen bietet nun Firmwaren (das sind Betriebssysteme bzw die Software für die verschiedenen Freifunk Router) für
