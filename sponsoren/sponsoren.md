@@ -5,7 +5,7 @@ title: Sponsoren
 permalink: /sponsoren/
 ---
 
-Wir möchten uns bei folgenden Sponsoren bedanken:
+##### Wir möchten uns bei folgenden Sponsoren bedanken:
 
 <ul class="sponsorenliste list-unstyled">
   <li>
