@@ -3,6 +3,7 @@ title: "Leisnig, Hartha, Meinsberg - neue Nodes"
 layout: post
 date: 2016-01-06 17:46:40
 categories: news
+tags: [Leisnig, Hartha, Waldheim]
 ---
 Einige neue Freifunk Knoten gibt es in Mittelsachsen. Leisnig, Hartha und Meinsberg sind die Ortschaften bei denen
 Freifunk endlich auch zur Verfügung steht. Zudem gibt es in Waldheim weitere Knoten.

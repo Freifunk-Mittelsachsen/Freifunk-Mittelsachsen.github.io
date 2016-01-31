@@ -14,9 +14,10 @@
       </a>
     </li>
 
-    {% for city in site.tags %}
+    {% assign cities = site.tags | sort %}
+    {% for city in cities %}
        <li>
-         <a href="{{ city[0] | downcase | prepend: "/stadt/" | prepend: site.baseurl }}">
+         <a title="Freifunk Mittelsachsen News für die Stadt {{city[0]}}" href="{{ city[0] | downcase | prepend: "/stadt/" | prepend: site.baseurl }}">
            {{ city[0] }}
          </a>
        </li>

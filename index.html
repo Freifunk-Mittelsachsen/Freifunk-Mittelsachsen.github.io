@@ -11,8 +11,8 @@ layout: default
           {% include post_date.html page_item=post %}
           {% if post.tags.size > 0 %}
             - <strong>Stadt: {{ post.tags | join: ", " }}</strong>
-          {% endif %} -
-          Kategorie(n): {{ post.categories }}
+          {% endif %} <!-- -
+          Kategorie(n): {{ post.categories }} -->
         </span>
         {% include list_post.html %}
       </li>
