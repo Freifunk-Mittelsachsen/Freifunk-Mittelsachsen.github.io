@@ -57,7 +57,7 @@ Betreuung von Freifunk in Leisnig:
 Wir sind außerdem erreichbar über:
 
 * <i class="fa fa-twitter"></i> Twitter: [@FreifunkMTL](https://twitter.com/freifunkmtl)
-* <i class="fa fa-facebook"></i> Facebook: [Freifunk Waldheim Facebook Gruppe](https://www.facebook.com/groups/FreifunkMittelsachsen/)
+* <i class="fa fa-facebook"></i> Facebook: [Freifunk Mittelsachsen Facebook Gruppe](https://www.facebook.com/groups/FreifunkMittelsachsen/)
 * <i class="fa fa-envelope"></i> Fragen an per Mail [kontakt@freifunk-mittelsachsen.de](mailto://kontakt@freifunk-mittelsachsen.de)
 * <i class="fa fa-comment"></i> IRC Chat: [#freifunkwdh@irc.hackint.org](http://freifunk-waldheim.de:7778)
 
