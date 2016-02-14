@@ -17,6 +17,8 @@ paginate_path: "/news/page:num/"
 # Build settings
 markdown: kramdown
 
+gems: [jekyll-paginate]
+
 post:
   template: templates/_post.txt
   extension: md
