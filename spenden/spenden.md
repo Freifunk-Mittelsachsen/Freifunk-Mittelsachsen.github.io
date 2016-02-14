@@ -50,7 +50,7 @@ Vielen Dank!
   </tbody>
 </table>
 
-Spenden gehen über [www.donation-tracker.com/u/ffmisax](http://www.donation-tracker.com/u/ffmisax) . Bestehen Fragen? Bitte eine kurze Email an [spenden@freifunk-mittelsachsen.de](mail:spenden@freifunk-mittelsachsen.de) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt) - wir werden uns so schnell wie möglich melden.
+Spenden gehen über [www.donation-tracker.com/u/ffmisax](http://www.donation-tracker.com/u/ffmisax) . Bestehen Fragen? Bitte eine kurze Email an [spenden@freifunk-mittelsachsen.de](mailto:spenden@freifunk-mittelsachsen.de) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt) - wir werden uns so schnell wie möglich melden.
 
 Über Paypal kann man uns auch ganz einfach eine kleine Spende zukommen lassen.
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
