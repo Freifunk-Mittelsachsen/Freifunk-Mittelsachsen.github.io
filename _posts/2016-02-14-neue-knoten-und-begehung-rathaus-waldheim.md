@@ -1,10 +1,13 @@
 ---
-title: "Neue Knoten & Begehung Rathaus Waldheim & Merch"
+title: "Neue Knoten & Begehung Rathaus Waldheim & Drucke"
 layout: post
 date: 2016-02-14 18:28:23
 categories: news
 tags: [Waldheim, Geringswalde]
 ---
+
+Es gibt neue Knoten in Geringswalde und Waldheim, schöne Ausblicke vom Rathaus und bald Druck auf T-Shirt, Pulli und Kaffeetasse.
+
 
 ### Neue Knoten
 
@@ -77,7 +80,7 @@ Ein weiterer neuer Standort befindet sich in Waldheim auf in Höhe Obermarkt 25.
 <div class="row">
   <div class="col-md-8">
     <p>
-Und wir arbeiten mit Hochdruck am Textildruck. ;-) Das bedeutet wir möchten gern T-Shirts, Kaputzenshirts und weitere Merchandising Produkte über einen Onlineshop zur Verfügung stellen.
+Und wir arbeiten mit Hochdruck am Textildruck. ;-) Das bedeutet wir möchten gern T-Shirts, Kaputzenshirts sowie Kaffeetassen und weitere  Produkte über einen Onlineshop zur Verfügung stellen.
 So können unsere Nutzer zeigen, an welchem coolen Projekt sie mitwirken. Wenn wir aus der Testphase heraus sind,
 wird der Shop in unsere Webseite eingebunden und Ihr könnt euch einkleiden.
     </p>  
