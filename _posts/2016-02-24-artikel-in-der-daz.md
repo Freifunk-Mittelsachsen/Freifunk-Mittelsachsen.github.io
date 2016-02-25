@@ -9,7 +9,8 @@ Freifunk Mittelsachsen gab der Presse Einblicke in die Ziele und die Arbeit des 
 die beidenen Vereinsvorsitzenden.
 
 
-Die beiden Vorsitzenden des Vereins Freifunk Mittelsachsen, David Nölte und Dominic Ernst haben der Döbelner Allgemeinen Zeitung ein Interview gegeben. Dabei sprachen Sie über unsere Ziele in Bezug auf die WLAN Versorgung in der Region und wie man selbst mitmachen kann.  
+Die beiden Vorsitzenden des Vereins Freifunk Mittelsachsen, David Nölte und Dominic Ernst, haben der Döbelner Allgemeinen Zeitung ein Interview gegeben. Dabei sprachen Sie über unsere Ziele in Bezug auf die WLAN Versorgung in der Region und wie man selbst mitmachen kann.
+Hier kann man den Artikel lesen: 
 [Freifunk Mittelsachsen bringt kostenloses WLAN in die Region - Döbelner Allgmeine Zeitung](http://www.lvz.de/Region/Doebeln/Freifunk-Mittelsachsen-bringt-kostenloses-WLAN-in-die-Region)
 
 <figure class="figure">
