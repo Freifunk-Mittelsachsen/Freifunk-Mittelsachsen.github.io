@@ -1,5 +1,5 @@
 ---
-title: "Interview mit der Döbelner Allgmeinen Zeitung"
+title: "Interview mit der Döbelner Allgemeinen Zeitung"
 layout: post
 date: 2016-02-24 13:38:05
 categories: news
