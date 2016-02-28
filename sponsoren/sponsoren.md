@@ -38,6 +38,31 @@ Internetzugang sorgen.
 
 Vielen Dank!
 
+### 2016
+
+<table class="table">
+<thead>
+  <tr>
+    <th>Datum</th>
+    <th>Spender</th>
+    <th>Höhe der Spende</th>
+  </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td>22.2.2016</td>
+      <td>
+        <a href="http://www.richzenhainer-hof.de/">
+          Richzenhainer Hof Waldheim
+        </a>
+      </td>
+      <td>200€</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 2015
 
 <table class="table">
