@@ -46,7 +46,7 @@ Ganz normal Spenden kann man natürlich auch.
 Spenden können über [www.donation-tracker.com/u/ffmisax](http://www.donation-tracker.com/u/ffmisax) oder Paypal abgewickelt werden.
 Spender werden in unserer Spenderliste mit Namen oder nach Wunsch auch anonym aufgeführt.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="margin-bottom: 1rem">
   <input type="hidden" name="cmd" value="_donations">
   <input type="hidden" name="business" value="david.noelte@gmx.de">
   <input type="hidden" name="lc" value="DE">
