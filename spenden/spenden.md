@@ -15,7 +15,7 @@ Um Freifunk Mittelsachsen finanziell zu unterstützen gibt es einige Möglichkei
 
 Fangen wir bei der kostenlosen und einfachsten Variante an:
 
-## Kostenlos Spenden
+## Kostenlos spenden
 
 Was? Kostenlos spenden? Ja, genau so.  
 
