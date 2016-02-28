@@ -2,14 +2,16 @@
 ---
 @import "bootstrap-v4/bootstrap";
 
+$freifunk-farbe: $brand-primary;
+
 ::-moz-selection {
-    background: #dc0067; /* freifunk magenta */
+    background: $freifunk-farbe; /* freifunk magenta */
     color: #ffffff; /* white */
     text-shadow: none;
 }
 
 ::selection {
-    background: #dc0067; /* freifunk magenta */
+    background: $freifunk-farbe; /* freifunk magenta */
     color: #ffffff; /* white */
     text-shadow: none;
 }
@@ -19,6 +21,14 @@
   font-size: 50rem;
   position: fixed;
   z-index: 0;
+}
+
+.icon {
+  height: 1.2rem;
+  vertical-align: text-top;
+  path {
+    fill: $freifunk-farbe;
+  }
 }
 
 .navbar.bg-faded {
