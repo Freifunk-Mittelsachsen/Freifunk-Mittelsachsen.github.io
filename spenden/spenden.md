@@ -46,21 +46,7 @@ Ganz normal Spenden kann man natürlich auch.
 Spenden können über [www.donation-tracker.com/u/ffmisax](http://www.donation-tracker.com/u/ffmisax) oder Paypal abgewickelt werden.
 Spender werden in unserer Spenderliste mit Namen oder nach Wunsch auch anonym aufgeführt.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="margin-bottom: 1rem">
-  <input type="hidden" name="cmd" value="_donations">
-  <input type="hidden" name="business" value="david.noelte@gmx.de">
-  <input type="hidden" name="lc" value="DE">
-  <input type="hidden" name="item_name" value="Freifunk Mittelsachsen">
-  <input type="hidden" name="no_note" value="0">
-  <input type="hidden" name="currency_code" value="EUR">
-  <input type="hidden" name="bn" value="PP-DonationsBF:spenden_button.png:NonHostedGuest">
-  <button type="submit" class="btn btn-primary" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
-    Jetzt an Freifunk Mittelsachsen spenden
-    <i class="fa fa-paypal pp"></i>
-  </button>
-  <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
-</form>
-
+{% include spenden-formular.html buttontext="Jetzt an Freifunk Mittelsachsen spenden" %}
 
 ## Für was werden die finanziellen Mittel benötigt?
 

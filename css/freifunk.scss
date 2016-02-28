@@ -31,6 +31,12 @@ $freifunk-farbe: $brand-primary;
   }
 }
 
+.nobtn {
+  background: none;
+  color: $freifunk-farbe;
+  border: none;
+}
+
 .navbar.bg-faded {
   background-color: rgba(248,248,248,0.5);
 }
@@ -89,9 +95,6 @@ $freifunk-farbe: $brand-primary;
 
 .pp {
   background: #fff none repeat scroll 0 0;
-  color: #0275d8;
-  padding: 4px;
-
 }
 
 .sponsorenliste > li {
