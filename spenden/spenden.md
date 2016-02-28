@@ -67,3 +67,18 @@ Spender werden in unserer Spenderliste mit Namen oder nach Wunsch auch anonym au
 
 Bestehen Fragen? Bitte eine kurze E-Mail an [spenden@freifunk-mittelsachsen.de](mailto:spenden@freifunk-mittelsachsen.de) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt).  
 Wir werden so schnell wie möglich antworten.
+
+
+## Für was werden die finanziellen Mittel benötigt?
+
+Es gibt mehrere Stellen, wo ausreichend Finanzen benötigt werden.
+
+- Einmal betreiben wir mehrere sogenannte VPN Server.
+  Die Freifunkrouter mit Internetanschluss bauen zu diesen Servern eine Verbindung auf und leiten den Freifunk Datenverkehr verschlüsselt auf die VPN Server um ihn dann ins Internet zu entlassen. Die Routerbetreiber werden dadurch von der Störerhaftung geschützt.
+
+- Wir betreiben außerdem einige Richtfunkstrecken ([siehe Karte](//karte.freifunk-mittelsachsen.de/meshviewer/)). Diese
+  Richtfunkstrecken tragen erheblich zur Anbindung und Stabilisierung einzelner Netzsegmente bei.
+
+- Außerdem gibt es Kostenstellen die durch die Verwaltung des Vereins entstehen z.B. Gebühren bei Ämtern und Anwälten.
+
+Unsere Arbeit bei Freifunk Mittelsachsen ist vollständig unbezahlt und wird in unserer Freizeit ausgeführt.
