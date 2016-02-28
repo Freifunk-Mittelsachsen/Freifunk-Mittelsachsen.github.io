@@ -62,13 +62,6 @@ Spender werden in unserer Spenderliste mit Namen oder nach Wunsch auch anonym au
 </form>
 
 
-
-## Fragen
-
-Bestehen Fragen? Bitte eine kurze E-Mail an [spenden@freifunk-mittelsachsen.de](mailto:spenden@freifunk-mittelsachsen.de) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt).  
-Wir werden so schnell wie möglich antworten.
-
-
 ## Für was werden die finanziellen Mittel benötigt?
 
 Es gibt mehrere Stellen, wo ausreichend Finanzen benötigt werden.
@@ -82,3 +75,9 @@ Es gibt mehrere Stellen, wo ausreichend Finanzen benötigt werden.
 - Außerdem gibt es Kostenstellen die durch die Verwaltung des Vereins entstehen z.B. Gebühren bei Ämtern und Anwälten.
 
 Unsere Arbeit bei Freifunk Mittelsachsen ist vollständig unbezahlt und wird in unserer Freizeit ausgeführt.
+
+
+## Fragen
+
+Bestehen Fragen? Bitte eine kurze E-Mail an [spenden@freifunk-mittelsachsen.de](mailto:spenden@freifunk-mittelsachsen.de) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt).  
+Wir werden so schnell wie möglich antworten.
