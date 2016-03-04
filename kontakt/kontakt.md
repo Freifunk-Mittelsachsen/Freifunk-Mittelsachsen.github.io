@@ -10,7 +10,7 @@ order: 50
 
 Verein Freifunk Mittelsachsen  
 c/o Nölte / Ernst  
-Lansberger Straße 22  
+Landsberger Straße 22
 04736 Waldheim
 
 Tel: +491622551602  
