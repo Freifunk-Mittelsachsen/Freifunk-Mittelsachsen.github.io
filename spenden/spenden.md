@@ -65,5 +65,5 @@ Unsere Arbeit bei Freifunk Mittelsachsen ist vollständig unbezahlt und wird in 
 
 ## Fragen
 
-Bestehen Fragen? Bitte eine kurze E-Mail an [spenden@freifunk-mittelsachsen.de](mailto:spenden@freifunk-mittelsachsen.de) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt).  
+Bestehen Fragen? Bitte eine kurze E-Mail an [spenden@freifunk-mittelsachsen.de]( mailto:spenden@freifunk-mittelsachsen.de ) oder eine kleine Meldung über unsere anderen [Kontaktmöglichkeiten](/kontakt).  
 Wir werden so schnell wie möglich antworten.
