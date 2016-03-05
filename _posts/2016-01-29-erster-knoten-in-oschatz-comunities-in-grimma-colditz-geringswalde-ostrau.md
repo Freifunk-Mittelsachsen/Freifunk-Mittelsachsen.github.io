@@ -6,7 +6,7 @@ categories: news
 tags: [Oschatz, Colditz, Grimma, Geringswalde, Ostrau]
 ---
 
-Freifunk Mittelsachsen breitet sich immer weiter aus ohne Kreisgrenzen zu beachten. ;-)  
+Freifunk Mittelsachsen breitet sich in Sachsen immer weiter aus ohne Kreisgrenzen zu beachten. ;-)  
 [In der letzten News](/news/2016/01/15/firmwaren-f%C3%BCr-leisnig-doebeln-mittweida-und-oschatz.html) kündigten wir
 Firmware für Oschatz an, damit auch in Oschatz Freifunk Router an den Start gehen können.
 Nun ist es soweit - der erste Freifunk Router steht in Oschatz bereit und strahlt kostenlos WLAN ab.
@@ -21,7 +21,7 @@ Damit das Netz wächst und weil wir Anfragen aus den Städten bekommen haben, gi
   </figcaption>
 </figure>
 
-Es werden in diesen Städten also demnächst auch Freifunk Knoten verfügbar sein.
+Es werden in diesen Städten Sachsen also demnächst auch Freifunk Knoten verfügbar sein.
 Auf unserer Mitmachen-Seite in der [Sektion "Firmware"](/mitmachen#software--freifunk-firmware) sind diese Orte mit verlinkt.  
 Jeder der möchte kann sich also [einen kompatiblen Router](/mitmachen#details) kaufen, die Firmware runter laden und ganz einfach per Browser aufspielen.
 Wenn Fragen aufkommen, stehen wir wie immer über die Kontaktmöglichkeiten [auf unserer Kontaktseite](/kontakt) zur Verfügung.

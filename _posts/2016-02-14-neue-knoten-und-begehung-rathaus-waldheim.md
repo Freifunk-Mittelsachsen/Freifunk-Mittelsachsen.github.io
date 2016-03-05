@@ -6,7 +6,7 @@ categories: news
 tags: [Waldheim, Geringswalde]
 ---
 
-Es gibt neue Knoten in Geringswalde und Waldheim, schöne Ausblicke vom Rathaus und bald Druck auf T-Shirt, Pulli und Kaffeetasse.
+Es gibt neue Knoten im sächsischen Geringswalde und Waldheim, schöne Ausblicke vom Rathaus Waldheim und bald Druck auf T-Shirt, Pulli und Kaffeetasse.
 
 
 ### Neue Knoten
@@ -14,7 +14,7 @@ Es gibt neue Knoten in Geringswalde und Waldheim, schöne Ausblicke vom Rathaus 
 Diese Woche ist ein Knoten in Altgeringswalde aufgestellt worden. Rund um die Dresdner Straße 180 gibt es jetzt
 Freifunk WLAN für jeden der es nutzen möchte.
 
-Zudem haben wir in Waldheim rund um die Hauptstraße 29 Freifunk WLAN. An diesem Standort wurden 4 Freifunkrouter aufgestellt und ein Router der eine Richtverbindung ins Gewerbegebiet aufrecht hält.
+Zudem haben wir in Waldheim rund um die Hauptstraße 29 Freifunk WLAN. An diesem Standort wurden 4 Freifunk-Router aufgestellt und eine Antenne der eine Richtverbindung ins Gewerbegebiet aufrecht hält.
 
 Ein weiterer neuer Standort befindet sich in Waldheim auf in Höhe Obermarkt 25. Dabei kommen 3 Router zum Einsatz wobei ein Router eine Verbindung zu 2 Routern auf dem Markt aufrecht hält um das Netz weiterzuverteilen.
 
@@ -89,7 +89,7 @@ wird der Shop in unsere Webseite eingebunden und Ihr könnt euch einkleiden.
     <figure class="figure">
       <img src="/img/news_14.02/textil.jpg" class="img-thumbnail img-responsive">
       <figcaption class="figure-caption">
-        Preview des Drucks
+        Vorschau des Drucks
       </figcaption>
     </figure>
   </div>
