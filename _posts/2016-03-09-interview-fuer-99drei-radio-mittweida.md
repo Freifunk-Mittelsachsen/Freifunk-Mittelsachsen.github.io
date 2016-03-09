@@ -1,7 +1,7 @@
 ---
 title: "Interview für 99drei Radio Mittweida"
 layout: post
-date: 2016-03-09 18:51:59 CET
+date: 2016-03-09 18:51:59
 categories: News
 ---
 
