@@ -6,7 +6,7 @@ categories: News
 ---
 
 Gestern hatte unser Vereinsvorstand Dominic Ernst die Gelegenheit mit [99drei - Radio Mittweida](http://www.radio-mittweida.de) zu sprechen
-und ein Interview zu geben. Wir freuen uns und bedanken uns für die Gelegenheit, das Projekt Freifunk Mittelsachsen einer noch breiteren Öffentlichkeit vorzustellen.
+und ein Interview zu geben. Wir bedanken uns für die Gelegenheit, das Projekt Freifunk Mittelsachsen einer noch breiteren Öffentlichkeit vorzustellen.
 
 Anhören kann man sich das Interview hier:
 
