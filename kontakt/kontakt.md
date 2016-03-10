@@ -23,6 +23,8 @@ Fragen oder Hilfe bitte per Email (siehe unten) oder Facebook (siehe unten) stel
 - Detlef Nölte (Kassenwart)
 - Jan Bretschneider (Protokollführer)
 
+[**Unsere Satzung**](/kontakt/satzung_18.01.2016.pdf)
+
 
 
 <!--
