@@ -1,9 +1,9 @@
 # Site settings
 title: Freifunk Mittelsachsen.
-subtitle: Das freie und kostenlose Bürger-Datennetz in Mittelsachsen
+subtitle: Das unabhängige und kostenlose Bürger-Datennetz in Mittelsachsen
 email: kontakt@freifunk-mittelsachsen.de
 description: > # this means to ignore newlines until "baseurl:"
-    Freifunk Mittelsachsen - kostenloses und selbstorganisiertes Netzwerk in
+    Freifunk Mittelsachsen - kostenloses und selbstorganisiertes und unabhängiges Netzwerk in
     den Städten und Gemeinden Mittelsachsens - dem Herzen von Sachsen
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.freifunk-mittelsachsen.de" # the base hostname & protocol for your site
