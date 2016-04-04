@@ -39,15 +39,15 @@ Damit Dein Freifunk-Router mit anderen Freifunk-Routern sprechen kann brauchst D
 hier herunter laden:
 
 - [Firmware für Waldheim](http://firmware.freifunk-mittelsachsen.de/stable/waldheim/)
-- [Firmware für Hartha (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/hartha/)
-- [Firmware für Leisnig (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/leisnig/)
-- [Firmware für Döbeln (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/doebeln/)
-- [Firmware für Mittweida (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/mittweida/)
-- [Firmware für Oschatz (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/oschatz/)
-- [Firmware für Grimma (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/grimma/)
-- [Firmware für Colditz (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/colditz/)
-- [Firmware für Geringswalde (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/geringswalde/)
-- [Firmware für Ostrau (experimental)](http://firmware.freifunk-mittelsachsen.de/experimental/ostrau/)
+- [Firmware für Hartha](http://firmware.freifunk-mittelsachsen.de/stable/hartha/)
+- [Firmware für Leisnig](http://firmware.freifunk-mittelsachsen.de/stable/leisnig/)
+- [Firmware für Döbeln](http://firmware.freifunk-mittelsachsen.de/stable/doebeln/)
+- [Firmware für Mittweida](http://firmware.freifunk-mittelsachsen.de/stable/mittweida/)
+- [Firmware für Oschatz](http://firmware.freifunk-mittelsachsen.de/stable/oschatz/)
+- [Firmware für Grimma](http://firmware.freifunk-mittelsachsen.de/stable/grimma/)
+- [Firmware für Colditz](http://firmware.freifunk-mittelsachsen.de/stable/colditz/)
+- [Firmware für Geringswalde](http://firmware.freifunk-mittelsachsen.de/stable/geringswalde/)
+- [Firmware für Ostrau](http://firmware.freifunk-mittelsachsen.de/stable/ostrau/)
 
 
 
