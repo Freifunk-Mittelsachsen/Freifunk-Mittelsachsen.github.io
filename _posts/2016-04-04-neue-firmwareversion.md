@@ -18,5 +18,4 @@ Damit gibt es eine stabile Firmware für die Städte und Gemeinden
 [Colditz](http://firmware.freifunk-mittelsachsen.de/stable/colditz/),
 [Geringswalde](http://firmware.freifunk-mittelsachsen.de/stable/geringswalde/),
 [Ostrau](http://firmware.freifunk-mittelsachsen.de/stable/ostrau/).
-
 Mehr Infos gibt es auf unserer [Mitmachen-Seite](/mitmachen).
