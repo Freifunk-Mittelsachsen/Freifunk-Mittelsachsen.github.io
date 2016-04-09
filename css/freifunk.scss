@@ -109,6 +109,14 @@ h1,h2,h3,h4,
   margin: 4rem 0px;
 }
 
+.form-control {
+  border-radius: 1px;
+}
+
+.form-control:focus {
+  border-color: $brand-primary;
+}
+
 
 
 @media (max-width: map-get($grid-breakpoints,"md")) {
