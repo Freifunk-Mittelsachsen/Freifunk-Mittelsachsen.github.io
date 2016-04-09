@@ -14,6 +14,7 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
+  {% if page.metatags %} <meta name="robots" content="{{page.metatags}}">{% endif %}
 
   <script async defer src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script async defer src="{{ "/js/bootstrap4.min.js" | prepend: site.baseurl }}"></script>
