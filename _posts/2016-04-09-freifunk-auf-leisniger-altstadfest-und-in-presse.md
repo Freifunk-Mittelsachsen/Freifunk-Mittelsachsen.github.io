@@ -3,6 +3,7 @@ title: "Kostenloses WLAN zum Leisniger Altstadtfest geplant - auch Presse weiß 
 layout: post
 date: 2016-04-09 11:08:11
 categories: news
+description: "Freifunk Mittelsachsen in der Sächsischen Zeitung und auf dem kommenden Altstadtfest in Leisnig"
 tags: [Leisnig]
 ---
 Wir haben es wieder  mit unserem tollen Projekt in die Zeitung geschafft. Kostenloses und freies WLAN öffentlichen Räumen ist ein beliebtes Thema. Diesmal soll es kostenloses WLAN auf dem Leisniger Altstadtfest geben.
