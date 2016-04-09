@@ -3,7 +3,6 @@ title: "Neue stabile Firmwareversion für viel Städte und Gemeinden"
 layout: post
 date: 2016-04-04 19:03:32
 categories: news
-tags: [Waldheim]
 ---
 
 Es gibt eine neue Firmware-Version für unsere Freifunk Router. Die Firmware hat den "experimental" Status verlassen und kann jetzt als "stabil" angesehen werden.
