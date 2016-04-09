@@ -1,0 +1,74 @@
+---
+layout: default
+title: Umfrage zur Internetgeschwindigkeit in Gemeinden Mittelsachsen
+permalink: /ms-umfrage/
+---
+
+<h1>Umfrage zur Internetgeschwindigkeit</h1>
+<p>
+Wir möchten in Zusammenarbeit mit den Gemeinden Mittelsachsens einen Überblick erstellen, wie schnell in den
+Gemeinden die Internetanschlüsse sind. Wir freuen uns, dass Sie uns dabei helfen möchten. Vielen Dank.
+</p>
+<h2 class="h4">Datenschutz</h2>
+<p>
+Es werden die eingegeben Daten gespeichert sowie die Messdaten.
+Die Daten werden den Gemeinden der Landkreises Mittelsachsen zur Verfügung gestellt.
+Die Daten werden <em>nicht</em> an Unternehmen oder Werbetreibende weiter gegeben.
+</p>
+<h2 class="h4">Zur Umfrage</h2>
+<form>
+  <div class="form-group adressdaten row">
+    <label for="strasse" class="col-sm-2 form-control-label">Straße</label>
+    <div class="col-sm-10">
+      <input type="text" id="strasse" class="form-control" placeholder="Musterstraße">
+      <small class="text-muted">
+        Bitte nur den Straßennamen eintragen
+      </small>
+    </div>
+  </div>
+
+
+  <div class="form-group adressdaten row">
+    <label for="hausnummer" class="col-sm-2 form-control-label">Hausnummer</label>
+    <div class="col-sm-10">
+      <input type="text" id="hausnummer" class="form-control" placeholder="1a">
+      <small class="text-muted">
+        Bitte nur den Hausnummer eintragen
+      </small>
+    </div>
+
+  </div>
+
+  <div class="form-group adressdaten row">
+    <label for="plz" class="col-sm-2 form-control-label">PLZ</label>
+    <div class="col-sm-10">
+      <input type="text" id="plz" class="form-control" placeholder="012345">
+    </div>
+  </div>
+
+  <div class="form-group adressdaten row">
+    <label for="ort" class="col-sm-2 form-control-label">Ort</label>
+    <div class="col-sm-10">
+      <input type="text" id="ort" class="form-control" placeholder="Musterhausen">
+    </div>
+  </div>
+
+
+  <div class="messdaten form-group row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-10">
+      <span id="kbs">0</span>KB/s
+      <button type="submit" class="btn btn-success">Messung starten</button>
+    </div>
+  </div>
+
+  <div class="checkbox">
+    <label>
+      <input type="checkbox" value="einverstanden">
+      Ich bin mit der Speicherung der eigegeben Daten einverstanden
+    </label>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Umfrage absenden</button>
+
+</form>
