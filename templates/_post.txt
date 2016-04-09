@@ -3,5 +3,6 @@ title:
 layout: post
 date:
 categories: news
+description: "Kurze Zusammenfassung"
 tags: [Waldheim]
 ---
