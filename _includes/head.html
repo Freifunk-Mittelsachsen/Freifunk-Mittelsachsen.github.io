@@ -39,7 +39,7 @@
   {% if page.description %}
     <meta content="{{ page.description }" property="og:description">
   {% else %}
-    <meta content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" property="og:description">
+    <meta content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endif %}" property="og:description">
   {% endif %}
 
 
@@ -64,7 +64,7 @@
   {% endif %}
 
   <meta property="og:image" content="http://www.freifunk-mittelsachsen.de/img/ffms-plain.svg">
-  <meta property="og:image:type" content="image/svg">
+  <meta property="og:image:type" content="image/svg+xml">
   <meta property="og:locale" content="de_DE">
   <meta name="twitter:site" content="@freifunkmtl">
   <meta name="twitter:card" content="summary">
