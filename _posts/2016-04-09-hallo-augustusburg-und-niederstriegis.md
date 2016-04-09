@@ -3,6 +3,7 @@ title: "Hallo Augustusburg und Niederstriegis"
 layout: post
 date: 2016-04-09 10:45:42
 categories: news
+description: "Augustusburg ist mit im Boot und Niederstriegis bei Roßwein hat auch seinen ersten Freifunk Knoten"
 tags: [Roßwein,Augustusburg]
 ---
 
