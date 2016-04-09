@@ -35,7 +35,7 @@ richten das mit dir zusammen (oder auch ohne dich ;-)) ein.
 
 ### Software / Freifunk-Firmware
 
-Damit Dein Freifunk-Router mit anderen Freifunk-Routern sprechen kann brauchst Du die aktuelle Firmware für Freifunk deiner Stadt. Die kannst du
+Damit Dein Freifunk-Router mit anderen Freifunk-Routern sprechen kann brauchst Du die aktuelle Firmware für Freifunk deiner Stadt oder Gemeinde. Die kannst du
 hier herunter laden:
 
 - [Firmware für Waldheim](http://firmware.freifunk-mittelsachsen.de/stable/waldheim/)
@@ -48,6 +48,7 @@ hier herunter laden:
 - [Firmware für Colditz](http://firmware.freifunk-mittelsachsen.de/stable/colditz/)
 - [Firmware für Geringswalde](http://firmware.freifunk-mittelsachsen.de/stable/geringswalde/)
 - [Firmware für Ostrau](http://firmware.freifunk-mittelsachsen.de/stable/ostrau/)
+- [Firmware für Augustusburg](http://firmware.freifunk-mittelsachsen.de/stable/augustusburg/)
 
 
 
