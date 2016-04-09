@@ -38,17 +38,21 @@ richten das mit dir zusammen (oder auch ohne dich ;-)) ein.
 Damit Dein Freifunk-Router mit anderen Freifunk-Routern sprechen kann brauchst Du die aktuelle Firmware für Freifunk deiner Stadt oder Gemeinde. Die kannst du
 hier herunter laden:
 
-- [Firmware für Waldheim](http://firmware.freifunk-mittelsachsen.de/stable/waldheim/)
+- [Firmware für Augustusburg](http://firmware.freifunk-mittelsachsen.de/stable/augustusburg/)
+- [Firmware für Colditz](http://firmware.freifunk-mittelsachsen.de/stable/colditz/)
+- [Firmware für Döbeln](http://firmware.freifunk-mittelsachsen.de/stable/doebeln/)
+- [Firmware für Geringswalde](http://firmware.freifunk-mittelsachsen.de/stable/geringswalde/)
+- [Firmware für Grimma](http://firmware.freifunk-mittelsachsen.de/stable/grimma/)
 - [Firmware für Hartha](http://firmware.freifunk-mittelsachsen.de/stable/hartha/)
 - [Firmware für Leisnig](http://firmware.freifunk-mittelsachsen.de/stable/leisnig/)
-- [Firmware für Döbeln](http://firmware.freifunk-mittelsachsen.de/stable/doebeln/)
 - [Firmware für Mittweida](http://firmware.freifunk-mittelsachsen.de/stable/mittweida/)
 - [Firmware für Oschatz](http://firmware.freifunk-mittelsachsen.de/stable/oschatz/)
-- [Firmware für Grimma](http://firmware.freifunk-mittelsachsen.de/stable/grimma/)
-- [Firmware für Colditz](http://firmware.freifunk-mittelsachsen.de/stable/colditz/)
-- [Firmware für Geringswalde](http://firmware.freifunk-mittelsachsen.de/stable/geringswalde/)
 - [Firmware für Ostrau](http://firmware.freifunk-mittelsachsen.de/stable/ostrau/)
-- [Firmware für Augustusburg](http://firmware.freifunk-mittelsachsen.de/stable/augustusburg/)
+- [Firmware für Waldheim](http://firmware.freifunk-mittelsachsen.de/stable/waldheim/)
+
+
+
+
 
 
 
