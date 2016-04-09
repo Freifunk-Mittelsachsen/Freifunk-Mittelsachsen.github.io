@@ -37,9 +37,9 @@
   {% endif %}
 
   {% if page.description %}
-    <meta content="{{ page.description }}" property="og:description">
+    <meta content="{{ page.description }" property="og:description">
   {% else %}
-    <meta content="{{ site.description }}" property="og:description">
+    <meta content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" property="og:description">
   {% endif %}
 
 
