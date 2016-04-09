@@ -3,7 +3,6 @@ title: "Hallo Augustusburg und Niederstriegis"
 layout: post
 date: 2016-04-09 10:45:42
 categories: news
-tags: [Waldheim]
 ---
 
 Wir sind aus Augustusburg angesprochen worden. Ab sofort gibt es auch eine [Freifunk Firmware für Augustusburg](//http://firmware.freifunk-waldheim.de/stable/augustusburg/). Willkommen Augustusburg - wir freuen uns
