@@ -4,6 +4,14 @@
 
 $freifunk-farbe: $brand-primary;
 
+
+h1,h2,h3,h4,
+.h1,.h2,.h3,.h4 {
+  hyphens: auto;
+  word-wrap: break-word;
+}
+
+
 ::-moz-selection {
     background: $freifunk-farbe; /* freifunk magenta */
     color: #ffffff; /* white */
