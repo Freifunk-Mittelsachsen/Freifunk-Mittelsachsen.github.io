@@ -63,8 +63,11 @@
     {% endfor %}
   {% endif %}
 
-  <!-- <meta property="og:image" content="http://www.freifunk-mittelsachsen.de/img/ffms-plain.svg"> -->
-   <meta property="og:image" content="http://www.freifunk-mittelsachsen.de/img/ffms-plain.jpg">
+  {% if page.ogimage %}
+    <meta property="og:image" content="http://www.freifunk-mittelsachsen.de/img/{{ page.ogimage }}">
+  {% else %}
+    <meta property="og:image" content="http://www.freifunk-mittelsachsen.de/img/open-grap-image.jpg">
+  {% endif %}
   <meta property="og:image:type" content="image/jpg">
   <meta property="og:locale" content="de_DE">
   <meta name="twitter:site" content="@freifunkmtl">
