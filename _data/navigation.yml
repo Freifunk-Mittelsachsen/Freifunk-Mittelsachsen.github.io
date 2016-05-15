@@ -16,5 +16,8 @@
 - name: Unterstützen
   url: /spenden
 
+- name: Wir helfen
+  url: /wir-helfen
+  
 - name: Kontakt
   url: /kontakt
