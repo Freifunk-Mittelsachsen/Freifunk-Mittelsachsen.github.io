@@ -9,7 +9,7 @@ permalink: /wir-helfen/
 Wir helfen sozialen Einrichtungen und Einrichtungen rund um Flüchtlinge und Helfer bei der Einrichtung von freien WLAN.
 
 ## Warum helfen wir?
-Kommunikation ist ein Menschenrecht. Das ist nicht nur unsere Meinung. Der Europäische Rat sagt dass "jeder das Recht auf Internetzugang haben soll, als wesentliche Bedingung der Ausübung seiner Rechte gemäß der Europäischen Menschenrechtskonvention."
+Kommunikation ist ein Menschenrecht. Das ist nicht nur unsere Meinung. Der Europäische Rat sagt, dass "jeder das Recht auf Internetzugang haben soll, als wesentliche Bedingung der Ausübung seiner Rechte gemäß der Europäischen Menschenrechtskonvention."
 [Weitere Informationen](https://wiki.freifunk.net/images/f/fc/160503_freifunk_AccessHumanRight.pdf)
 
 ## Was umfasst unsere Hilfe?
