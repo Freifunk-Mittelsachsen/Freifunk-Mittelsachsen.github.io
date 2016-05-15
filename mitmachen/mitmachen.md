@@ -41,14 +41,18 @@ hier herunter laden:
 - [Firmware für Augustusburg](http://firmware.freifunk-mittelsachsen.de/stable/augustusburg/)
 - [Firmware für Colditz](http://firmware.freifunk-mittelsachsen.de/stable/colditz/)
 - [Firmware für Döbeln](http://firmware.freifunk-mittelsachsen.de/stable/doebeln/)
+- [Firmware für Flöha](http://firmware.freifunk-mittelsachsen.de/stable/floeha/)
 - [Firmware für Geringswalde](http://firmware.freifunk-mittelsachsen.de/stable/geringswalde/)
 - [Firmware für Grimma](http://firmware.freifunk-mittelsachsen.de/stable/grimma/)
+- [Firmware für Großschirma](http://firmware.freifunk-mittelsachsen.de/stable/grossschirma/)
 - [Firmware für Hartha](http://firmware.freifunk-mittelsachsen.de/stable/hartha/)
 - [Firmware für Leisnig](http://firmware.freifunk-mittelsachsen.de/stable/leisnig/)
 - [Firmware für Mittweida](http://firmware.freifunk-mittelsachsen.de/stable/mittweida/)
 - [Firmware für Oschatz](http://firmware.freifunk-mittelsachsen.de/stable/oschatz/)
 - [Firmware für Ostrau](http://firmware.freifunk-mittelsachsen.de/stable/ostrau/)
+- [Firmware für Roßwein](http://firmware.freifunk-mittelsachsen.de/stable/rosswein/)
 - [Firmware für Waldheim](http://firmware.freifunk-mittelsachsen.de/stable/waldheim/)
+- [Firmware für Wermsdorf](http://firmware.freifunk-mittelsachsen.de/stable/wermsdorf/)
 
 
 
