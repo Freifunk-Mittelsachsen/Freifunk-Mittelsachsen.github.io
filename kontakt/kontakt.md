@@ -9,7 +9,7 @@ order: 50
 ## Impressum
 **Angaben gemäß § 5 TMG**
 
-Verein Freifunk Mittelsachsen  
+Freifunk Mittelsachsen e.V.
 c/o Nölte / Ernst  
 Landsberger Straße 22
 04736 Waldheim
@@ -27,16 +27,10 @@ Fragen oder Hilfe bitte per Email (siehe unten) oder Facebook (siehe unten) stel
 [**Unsere Satzung**](/kontakt/satzung_18.01.2016.pdf)
 
 
-
-<!--
 **Registereintrag**
 Registergericht: Amtsgericht Chemnitz
-Registernummer: VR 22961
+Registernummer: VR 3444
 
-
-
-
--->
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**
 
