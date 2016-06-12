@@ -6,7 +6,8 @@ permalink: /wir-helfen/
 ---
 # Hilfe bei sozialen Projekten
 
-Wir helfen sozialen Einrichtungen und Einrichtungen rund um Flüchtlinge und Helfer bei der Einrichtung von freien WLAN.
+Wir helfen sozialen Einrichtungen wie Kinderheimen, Schulen o.ä. und auch teilweise Einrichtungen rund um Flüchtlinge und Helfer bei der Einrichtung von freien WLAN.
+Zudem führen wir in Kooperation Bildungsmaßnahmen durch.
 
 ## Warum helfen wir?
 Kommunikation ist ein Menschenrecht. Das ist nicht nur unsere Meinung. Der Europäische Rat sagt, dass "jeder das Recht auf Internetzugang haben soll, als wesentliche Bedingung der Ausübung seiner Rechte gemäß der Europäischen Menschenrechtskonvention."
@@ -22,4 +23,5 @@ Unsere Hilfe kann beinhalten:
 
 ## Wie Hilfe anfordern?
 
-Über unsere [Kontaktseite](/kontakt) kann mit uns Kontakt aufgenommen werden.
+Wenn wir Ihnen oder Ihrer Einrichtung helfen sollen bitten wir Sie mit uns über unsere [Kontaktseite](/kontakt) in
+Verbindung zu treten.
