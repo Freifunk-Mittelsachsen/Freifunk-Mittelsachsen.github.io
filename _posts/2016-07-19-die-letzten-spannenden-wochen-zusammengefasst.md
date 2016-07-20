@@ -1,7 +1,7 @@
 ---
 title: "Die letzten spannenden Wochen zusammengefasst"
 layout: post
-date: 2016-07-19 17:29:59
+date: 2016-07-19 17:29:59 +0100
 categories: news
 description: "Anfang Sommer 2016 - Zusammenfassung der Aktiväten von Freifunk Mittelsachsen"
 tags: [Waldheim,Grimma,Leisnig,Roßwein,Döbeln,Hartha,Mittweida]
