@@ -63,6 +63,8 @@ Quasie taufrisch ist der Aufbau eines [Freifunk Knoten im Studentenwohnheim Roß
 
 ---
 
+Auch ist wurde [Freifunk Mittelsachsen Projekt bei Blick.de](http://www.blick.de/nachrichten/mittelsachsen/ueberall-kostenlos-ins-netz-ein-traum-artikel9581183.php) mit einem Artikel beschrieben.
+
 Mittlerweile nutzen in den Sommermonaten tagsüber bis zu 180 Nutzer das Freifunknetz - sei es mit Smartphone, Tablet oder Laptop.
 
 Schlussendlich wollen wir uns bei allen Unterstützern und Teilnehmern bedanken, die Freifunk nutzen und mit helfen, Freifunk Mittelsachsen wachsen zu lassen indem sie Knoten aufbauen.
