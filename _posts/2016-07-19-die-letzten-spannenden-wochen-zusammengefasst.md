@@ -9,7 +9,7 @@ tags: [Waldheim,Grimma,Leisnig,Roßwein,Döbeln,Hartha,Mittweida]
 Die letzten Wochen waren in Bezug auf Freifunk Mittelsachsen ereignisreich.
 Es sind viele weitere Knoten dem Netz hinzugefügt worden, es gibt 2 Richtfunkstrecken und eine Vereinseintragung.
 
-### First things frist
+### First things first
 
 Ab dem 17. Mai 2016 haben wir einen Eintrag im Vereinsregister. Wir dürfen uns nun **Freifunk Mittelsachsen _e.V._** nennen.
 
@@ -31,9 +31,9 @@ Darüber hat die [LVZ einen Artikel ](http://www.lvz.de/Region/Doebeln/Unterstue
 ### [Waldheim](/stadt/waldheim)
 
 Anfang Juni hat ein fleißiger Meinsberger beim [Meinsberger Open Air 2016](http://meinsberg-in-sachsen.de/2016/03/06/moa-flyer-2016/) für kostenloses WLAN gesorgt. Zudem ist [Freifunk in Meinsberg](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;n:60e327e740dc) ordentlich ausgebaut worden.
-Es gibt mittlerweile sogar eine [Richtfunkstrecke zwischen Meinsberg und Neuhausen](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:00e07dc041c9-f4f26d6a8f7a) . Das heißt, dass es in dem kleinen [Dorf Neuhausen kostenlos Freifunk WLAN ](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:a42bb0aaaa56-f4f26d6a8f7a) gibt.
+Es gibt mittlerweile sogar eine [Richtfunkstrecke zwischen Meinsberg und Neuhausen](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:00e07dc041c9-f4f26d6a8f7a). Das heißt, dass es in dem kleinen [Dorf Neuhausen nun auch kostenlos Freifunk WLAN ](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:a42bb0aaaa56-f4f26d6a8f7a) gibt.
 
-Eine weitere [Richtfunkstrecke verbindet beide Zschopauseiten in Waldheim](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:60e327ceca44-f4f26dfeeb96). Auf der Strecke erreichen wir durchschnittlichen Datendurchsatz zw. 80 und 150 Mbit/s.
+Eine weitere [Richtfunkstrecke verbindet beide Zschopauseiten in Waldheim](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:60e327ceca44-f4f26dfeeb96). Auf dieser Strecke erreichen wir durchschnittlichen einen Datendurchsatz zw. 80 und 150 Mbit/s.
 
 <a data-featherlight="image" href="/img/ffwdh-pw-richt/richt1.jpg">
   <img src="/img/ffwdh-pw-richt/richt1_klein.jpg">
@@ -54,8 +54,8 @@ Aus Leisnig gibt es auch Neuigkeiten. Das [Kanuheim in Leisnig hat Freifunk](htt
 
 Am [Niedermarkt in Döbeln](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:ec086b3fd2ea-f4f26dd5b3c8) gibt es auch 2 Knoten, welche genutzt werden können.
 Der Obermarkt hat an der äußersten Ecke auch [einen Freifunk Knoten](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;n:f4f26df66058) bekommen.
-Auch auf der [Roßweiner Straße ist Freifunk](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;n:f4f26d972d2c). verfügbar
-Wer selbst einen Knoten aufstellen möchte und das Netz erweitern möchte [ist dazu herzlich eingeladen](/mitmachen).
+Auch auf der [Roßweiner Straße ist Freifunk](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;n:f4f26d972d2c) verfügbar.
+Wer selbst einen Knoten aufstellen und das Netz erweitern möchte [ist dazu herzlich eingeladen](/mitmachen).
 
 ### [Roßwein](/stadt/roßwein)
 
@@ -63,8 +63,8 @@ Quasie taufrisch ist der Aufbau eines [Freifunk Knoten im Studentenwohnheim Roß
 
 ---
 
-Auch ist wurde [Freifunk Mittelsachsen Projekt bei Blick.de](http://www.blick.de/nachrichten/mittelsachsen/ueberall-kostenlos-ins-netz-ein-traum-artikel9581183.php) mit einem Artikel beschrieben.
+Auch wurde das [Freifunk Mittelsachsen Projekt bei Blick.de](http://www.blick.de/nachrichten/mittelsachsen/ueberall-kostenlos-ins-netz-ein-traum-artikel9581183.php) mit einem Artikel bekannt gemacht.
 
 Mittlerweile nutzen in den Sommermonaten tagsüber bis zu 180 Nutzer das Freifunknetz - sei es mit Smartphone, Tablet oder Laptop.
 
-Schlussendlich wollen wir uns bei allen Unterstützern und Teilnehmern bedanken, die Freifunk nutzen und mit helfen, Freifunk Mittelsachsen wachsen zu lassen indem sie Knoten aufbauen.
+Schlussendlich wollen wir uns bei allen Unterstützern und Teilnehmern bedanken, die Freifunk nutzen und mit helfen Freifunk Mittelsachsen wachsen zu lassen indem sie Knoten aufbauen.
