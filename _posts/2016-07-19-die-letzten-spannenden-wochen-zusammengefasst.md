@@ -33,7 +33,7 @@ Darüber hat die [LVZ einen Artikel ](http://www.lvz.de/Region/Doebeln/Unterstue
 Anfang Juni hat ein fleißiger Meinsberger beim [Meinsberger Open Air 2016](http://meinsberg-in-sachsen.de/2016/03/06/moa-flyer-2016/) für kostenloses WLAN gesorgt. Zudem ist [Freifunk in Meinsberg](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;n:60e327e740dc) ordentlich ausgebaut worden.
 Es gibt mittlerweile sogar eine [Richtfunkstrecke zwischen Meinsberg und Neuhausen](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:00e07dc041c9-f4f26d6a8f7a). Das heißt, dass es in dem kleinen [Dorf Neuhausen nun auch kostenlos Freifunk WLAN ](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:a42bb0aaaa56-f4f26d6a8f7a) gibt.
 
-Eine weitere [Richtfunkstrecke verbindet beide Zschopauseiten in Waldheim](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:60e327ceca44-f4f26dfeeb96). Auf dieser Strecke erreichen wir durchschnittlichen einen Datendurchsatz zw. 80 und 150 Mbit/s.
+Eine weitere [Richtfunkstrecke verbindet beide Zschopauseiten in Waldheim](http://karte.freifunk-mittelsachsen.de/meshviewer/#!v:m;l:60e327ceca44-f4f26dfeeb96). Auf dieser Strecke erreichen wir durchschnittlichen einen Datendurchsatz von über 250 Mbit/s.
 
 <a data-featherlight="image" href="/img/ffwdh-pw-richt/richt1.jpg">
   <img src="/img/ffwdh-pw-richt/richt1_klein.jpg">
