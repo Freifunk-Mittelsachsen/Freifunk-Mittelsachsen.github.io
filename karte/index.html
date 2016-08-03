@@ -1,0 +1,31 @@
+---
+layout: meshmap
+---
+
+<iframe id="meshviewer" name="meshviewer" allowfullscreen allowtransparency="true" title="Meshviewer" seamless src="http://karte.freifunk-mittelsachsen.de/meshviewer/">
+</iframe>
+
+
+<script>
+var url = '/karte/';
+$(function() {
+    if(typeof history.replaceState == 'function'){
+      var iframeDoc = document.getElementById("meshviewer").contentWindow;
+      var oldHash = iframeDoc.location.hash;
+      function updateUrl() {
+        if(iframeDoc.location.hash != oldHash) {
+          var hash = iframeDoc.location.hash;
+          var match = hash.match(/[a-f0-9]+/);
+          if (match != null) {
+            window.history.replaceState({}, 'Meshviewer ' + match, url + 'node/' + match + '/');
+          } else {
+            window.history.replaceState({}, 'Meshviewer', url);
+          }
+          oldHash = iframeDoc.location.hash;
+        }
+        setTimeout(updateUrl, 100);
+      }
+      updateUrl();
+    }
+  });
+  </script>

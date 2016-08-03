@@ -5,6 +5,10 @@
 $freifunk-farbe: $brand-primary;
 
 
+body {
+  overflow-x: hidden;
+}
+
 h1,h2,h3,h4,h5
 .h1,.h2,.h3,.h4 {
   hyphens: auto;
@@ -31,7 +35,7 @@ hr {
   color: #e6faff;
   font-size: 50rem;
   position: fixed;
-  z-index: 0;
+  z-index: -1;
 }
 
 .icon {
@@ -196,4 +200,16 @@ hr {
     padding: 0px 0.5rem ;
   }
 
+}
+
+.map-content {
+  margin-top: -1em;
+}
+
+#meshviewer {
+  border: 0;
+  height: 100vh ;
+  width: 100vw;
+  height: calc(100vh - 14rem);
+  z-index: 1;
 }
