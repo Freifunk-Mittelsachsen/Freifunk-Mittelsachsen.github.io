@@ -44,7 +44,7 @@ Ein kleiner Teil des Preises geht in unsere Vereinskasse.
 Ganz normal Spenden kann man natürlich auch - entweder über [www.donation-tracker.com/u/ffmisax](http://www.donation-tracker.com/u/ffmisax) oder Paypal.
 Spender werden in unserer Spenderliste mit Namen oder nach Wunsch auch anonym aufgeführt.
 
-{% include spenden-formular.html buttontext="Jetzt an Freifunk Mittelsachsen spenden" formclass="m-b" %}
+{% include spenden-formular.html buttontext="Jetzt an Freifunk Mittelsachsen spenden" formclass="m-b-1" %}
 
 ### Für was werden die finanziellen Mittel benötigt?
 
