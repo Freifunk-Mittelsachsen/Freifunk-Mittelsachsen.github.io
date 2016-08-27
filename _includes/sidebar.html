@@ -36,23 +36,7 @@
     </li>
   </ul>
 
-  <h4>Städte</h4>
-  <ul class="list-unstyled">
-    <li>
-      <a href="/">
-        Alle
-      </a>
-    </li>
 
-    {% assign cities = site.tags | sort %}
-    {% for city in cities %}
-       <li>
-         <a title="Freifunk Mittelsachsen News für die Stadt {{city[0]}}" href="{{ city[0] | downcase | prepend: "/stadt/" | prepend: site.baseurl }}">
-           {{ city[0] }}
-         </a>
-       </li>
-    {% endfor %}
-  </ul>
 
   <h4>WebCam</h4>
   <div class="webcams">
