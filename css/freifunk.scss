@@ -131,6 +131,16 @@ hr {
 
 .webcams {
   margin-bottom: 1rem;
+  width: 300px;
+}
+
+.webcams .carousel-inner > .carousel-item > a {
+  cursor: zoom-in;
+}
+.webcams .carousel-inner > .carousel-item > a > img {
+  height: 181px;
+  overflow: hidden;
+
 }
 
 
