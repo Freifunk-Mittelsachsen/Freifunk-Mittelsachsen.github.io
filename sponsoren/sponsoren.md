@@ -28,6 +28,11 @@ permalink: /sponsoren/
 
   </li>
 
+  <li>
+    <a title="Sachsen Webcam" class="nav-link" href="http://sachsen-webcam.de/landkreis-mittelsachsen.html">
+      Sachsen Webcam
+    </a>
+  </li>
 </ul>
 
 ## Danke für die Spenden
