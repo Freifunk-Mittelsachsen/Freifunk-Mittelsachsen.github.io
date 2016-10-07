@@ -33,6 +33,13 @@ permalink: /sponsoren/
       Sachsen Webcam
     </a>
   </li>
+
+  <li>
+    <a title="Kreativfarbwerk" class="nav-link" href="http://www.kreativfarbwerk.de/">
+      <img src="/img/inhalt/kreativfarbwerk-logo.png">
+    </a>
+  </li>
+
 </ul>
 
 ## Danke für die Spenden
