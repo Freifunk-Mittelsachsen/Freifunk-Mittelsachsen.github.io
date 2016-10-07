@@ -3,7 +3,7 @@
     <ul class="pagination">
       {% if paginator.previous_page %}
         <li class="page-item">
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+          <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
             <span aria-hidden="true">&laquo;</span>
             <span class="sr-only"> Zurück</span>
           </a>
