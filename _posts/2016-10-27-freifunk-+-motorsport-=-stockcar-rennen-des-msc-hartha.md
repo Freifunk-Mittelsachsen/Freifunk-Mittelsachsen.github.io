@@ -22,3 +22,5 @@ Kameras werden das Rennen aufzeichnen und später auf Youtube und Facebook berei
 Wer gutes WLAN schätzt und Lust auf viel Motor-Lärm, fliegenden Dreck, Öl- und Benzingeruch hat (oder zumindest keine Angst davor :) )
 kann am 28.10 - 30.10 [hier beim Stockcar Rennen 2016](https://www.google.de/maps/place/51°05'18.9"N+12°58'17.9"E/@51.088585,12.9703376,17z)
 vorbei schauen.
+
+Übrigens die Döbelner [Allgemeine Zeitung berichtete](http://www.lvz.de/Region/Doebeln/Freies-W-Lan-zum-Harthaer-Stock-Car-Rennen) auch über unsere Aktivitäten bei dem Rennen.
