@@ -218,7 +218,9 @@ hr {
   margin-top: -1em;
 }
 
-
+.collapse.show {
+  display: block;
+}
 
 #meshviewer {
   border: 0;
