@@ -1,9 +1,19 @@
 ---
 ---
-@import "bootstrap-v4/bootstrap-ffms";
 
+
+
+
+
+$brand-primary: #e5287a;
+
+$font-family-sans-serif: "Source Sans Pro", Helvetica, Arial, sans-serif;
+$font-family-serif: "Lora", Serif;
+
+@import "bootstrap-ffms";
 
 $freifunk-farbe: $brand-primary;
+
 
 
 body {
