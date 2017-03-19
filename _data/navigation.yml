@@ -7,17 +7,17 @@
 - name: Über Freifunk
   url: /about
 
-- name: Fragen? Antworten!
-  url: /faq
-
 - name: Mitmachen
   url: /mitmachen
 
 - name: Unterstützen
   url: /spenden
 
+- name: Fragen? Antworten!
+  url: /faq
+
 - name: Wir helfen
   url: /wir-helfen
-  
+
 - name: Kontakt
   url: /kontakt
