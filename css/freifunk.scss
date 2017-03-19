@@ -18,14 +18,44 @@ $freifunk-farbe: $brand-primary;
 
 body {
   overflow-x: hidden;
+  font-size: 16px;
+  font-size: calc( 14px + (16 - 14) * (100vw - 270px) / (1200 - 270) );
 }
 
-h1,h2,h3,h4,h5
-.h1,.h2,.h3,.h4 {
-  hyphens: auto;
-  word-wrap: break-word;
-  font-family: "Lora", serif;
+@for $i from 1 through 6 {
+  h#{$i},
+  .h#{$i} {
+    hyphens: auto;
+    word-wrap: break-word;
+    margin-top: 1em;
+    font-family: "Lora", serif;
+  }
 }
+
+h1,.h1 {
+  font-size: 2.1em;
+}
+
+h2,.h2 {
+  font-size: 1.6em;
+}
+
+h3,.h3 {
+  font-size: 1.45em;
+}
+
+h4,.h4 {
+  font-size: 1.35em;
+}
+
+h5,.h5 {
+  font-size: 1.2em;
+}
+h6,.h6 {
+  font-size: 1em;
+}
+
+
 
 hr {
   border-top: 0.1rem solid $brand-primary;
@@ -101,6 +131,11 @@ hr {
   margin-bottom: 2rem;
 }
 
+.post-date {
+  font-style: italic;
+  font-size: 0.9em;
+}
+
 .pagination > li:first-child > a,
 .pagination > li:first-child > span,
 .pagination > li > a,
@@ -111,10 +146,13 @@ hr {
   border-color: #F8BBD5;
 }
 
-.site-content {
+.right-sidebar {
   margin-top: 2em;
 }
 
+.site-content p {
+  quotes: "„" "”" "‚" "‘";
+}
 
 .site-footer {
   background-color: rgba(255,255,255,0.7);
