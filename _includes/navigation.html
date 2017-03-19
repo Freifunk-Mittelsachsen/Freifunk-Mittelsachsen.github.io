@@ -1,27 +1,23 @@
-<nav class="navbar navbar-default bg-faded">
+<nav class="navbar navbar-toggleable-md bg-faded">
+
   <a title="Sachsens kostenloses WLAN - Freifunk Mittelsachsen" class="hidden-md-up navbar-brand site-title" href="{{ site.baseurl }}/">
     <img class="fflogo" src="{{ site.baseurl}}/img/ffms-plain.svg" />
     {{ site.title }}
   </a>
 
 
-  <button class="navbar-toggler hidden-md-up pull-right clearfix" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar2">
+  <button class="navbar-toggler hidden-md-up pull-right clearfix" type="button" data-toggle="collapse" data-target="#collapseNavbar">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="40" viewBox="0 0 10 10" version="1.1" height="40">
-      <style>
-        .s0 {
-          fill: none;
-          stroke: #000;
-        }
-      </style>
+      <style>.s0 { fill: none; stroke: #000; }</style>
       <g transform="translate(0,-294.35416)">
         <path d="m1.2 295.6c0 0 7.6 0 7.6 0M1.2 298c0 0 7.6 0 7.6 0M1.2 300.4c0 0 7.6 0 7.6 0M1.2 302.7c0 0 7.6 0 7.6 0" class="s0"/>
       </g>
     </svg>
   </button>
 
-  <div class="collapse navbar-toggleable-sm" id="exCollapsingNavbar2">
+  <div class="collapse navbar-collapse navbar-toggleable-sm" id="collapseNavbar">
     <div class="container">
-      <ul class="nav navbar-nav ff-nav">
+      <ul class="nav navbar-nav ff-nav  mr-auto mt-2 mt-md-0">
 
         {% assign pages = site.data.navigation %}
         {% for page in pages %}
