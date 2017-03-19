@@ -3,13 +3,10 @@ layout: default
 ---
 
 
-<h1>Stadt: {{ page.tag }}</h1>
-<ul class="post-list list-unstyled">
-  {% for post in site.tags[page.tag] %}
-    <li>
-      {% include post_date.html page_item=post %}
-
+<h1 class="h4">News für die Stadt: {{ page.tag }}</h1>
+<hr>
+{% for post in site.tags[page.tag] %}
+  <div class="posts-list">
       {% include list_post.html %}
-    </li>
-  {% endfor %}
-</ul>
+  </div>
+{% endfor %}

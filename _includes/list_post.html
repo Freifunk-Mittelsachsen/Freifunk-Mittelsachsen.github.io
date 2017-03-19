@@ -10,11 +10,13 @@
     {{ post.title }}
     </a>
 </h2>
-<p>
-  {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-</p>
+{% include post_date.html page_item=post %}
+
+<p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+
 {% unless excerpt_words == content_words %}
   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
     Mehr lesen
   </a>
 {% endunless %}
+<hr>
