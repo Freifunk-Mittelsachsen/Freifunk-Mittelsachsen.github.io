@@ -3,25 +3,25 @@ layout: default
 ---
 
 
-  <h1 class="page-heading h3">Aktuelles</h1>
-  <ul class="post-list list-unstyled">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="post-meta">
-          {% include post_date.html page_item=post %}
-          {% if post.tags.size > 0 %}
-            - <strong>Stadt: {{ post.tags | join: ", " }}</strong>
-          {% endif %} <!-- -
-          Kategorie(n): {{ post.categories }} -->
-        </span>
-        {% include list_post.html %}
-      </li>
-    {% endfor %}
-  </ul>
+<h3 class="page-heading">Aktuelles</h3>
 
-  {% include paginator_snippet.html %}
+<div class="post-list">
+  {% for post in paginator.posts %}
+    <div class="post">
+      <span class="post-meta">
+        {% if post.tags.size > 0 %}
+          <strong>Für Stadt: {{ post.tags | join: ", " }}</strong>
+        {% endif %} <!-- -
+        Kategorie(n): {{ post.categories }} -->
+      </span>
+      {% include list_post.html %}
+    </div>
+  {% endfor %}
+</div>
+
+{% include paginator_snippet.html %}
 
 
-  <p class="rss-subscribe">
-    automatisch auf dem Laufenden <a href="{{ "/feed.xml" | prepend: site.baseurl }}">mit RSS</a>
-  </p>
+<p class="rss-subscribe">
+  automatisch auf dem Laufenden <a href="{{ "/feed.xml" | prepend: site.baseurl }}">mit RSS</a>
+</p>

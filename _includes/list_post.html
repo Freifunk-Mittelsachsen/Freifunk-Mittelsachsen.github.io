@@ -15,7 +15,7 @@
 <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 
 {% unless excerpt_words == content_words %}
-  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+  <a class="post-link btn btn-primary" href="{{ post.url | prepend: site.baseurl }}">
     Mehr lesen
   </a>
 {% endunless %}
