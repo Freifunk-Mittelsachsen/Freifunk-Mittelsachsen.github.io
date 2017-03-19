@@ -1,4 +1,4 @@
-<nav class="navbar navbar-toggleable-md bg-faded">
+<nav class="navbar navbar-toggleable-sm  bg-faded">
 
   <a title="Sachsens kostenloses WLAN - Freifunk Mittelsachsen" class="hidden-md-up navbar-brand site-title" href="{{ site.baseurl }}/">
     <img class="fflogo" src="{{ site.baseurl}}/img/ffms-plain.svg" />
@@ -6,7 +6,7 @@
   </a>
 
 
-  <button class="navbar-toggler hidden-md-up pull-right clearfix" type="button" data-toggle="collapse" data-target="#collapseNavbar">
+  <button class="navbar-toggler hidden-md-up" type="button" data-toggle="collapse" data-target="#collapseNavbar">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="40" viewBox="0 0 10 10" version="1.1" height="40">
       <style>.s0 { fill: none; stroke: #000; }</style>
       <g transform="translate(0,-294.35416)">
@@ -15,9 +15,10 @@
     </svg>
   </button>
 
-  <div class="collapse navbar-collapse navbar-toggleable-sm" id="collapseNavbar">
-    <div class="container">
-      <ul class="nav navbar-nav ff-nav  mr-auto mt-2 mt-md-0">
+    <div class="collapse navbar-collapse ff-collapse " id="collapseNavbar">
+      <div class="container">
+
+        <ul class="nav navbar-nav ff-nav ff-nav-begin ">
 
         {% assign pages = site.data.navigation %}
         {% for page in pages %}
@@ -38,16 +39,17 @@
             {% endif %}
           {% endunless %}
         {% endfor %}
+      </ul>
 
-
-        <li class="nav-item ff-pull-right nodot">
+      <ul class="nav navbar-nav ff-nav ff-nav-end">
+        <li class="nav-item nodot">
           <a title="kostenloses WLAN in Sachsen - Freifunk Mittelsachsen" class="nav-link" href="/karte/">
             <i class="fa fa-map"></i>
             Karte
           </a>
         </li>
 
-        <!-- <li class="nav-item ff-pull-right nodot">
+        <!-- <li class="nav-item justify-content-end nodot">
           <a title="Chatte mit uns unkompliziert" class="nav-link" href="http://im.freifunk-mittelsachsen.de/candy/ffms">
             <i class="fa fa-comment"></i>
             Chat

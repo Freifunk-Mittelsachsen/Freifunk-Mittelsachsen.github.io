@@ -195,16 +195,24 @@ hr {
 
 }
 
+.fflogo {
+  height: 110px;
+  padding: 10px;
+}
+
 
 @import 'featherlight.min';
 
-@media (max-width: map-get($grid-breakpoints,"md")) {
+@include media-breakpoint-down("sm") {
+//@media (max-width: map-get($grid-breakpoints,"md")) {
   .site-title {
     font-size: 1rem;
   }
   .fflogo {
     width: 50px;
   }
+
+
 
   .navbar-brand {
     float: none;
@@ -218,12 +226,18 @@ hr {
     margin: 0px;
   }
 
-  .ff-nav .nav-item {
-    float: none;
+  .navbar-toggler {
+    align-self: flex-end;
   }
+
 }
 
-@media (min-width: map-get($grid-breakpoints,"md")) {
+@include media-breakpoint-up("sm") {
+
+}
+
+@include media-breakpoint-up("md") {
+//@media (min-width: map-get($grid-breakpoints,"md")) {
   .fb-ribbon {
     display: block;
     position: fixed;
@@ -245,24 +259,49 @@ hr {
   .navbar-brand {
     padding: 0px;
   }
-  .fflogo {
-    height: 110px;
-    padding: 10px;
-  }
 
-  .ff-pull-right {
-    /* find ich jetzt nicht gut */
-    float: right !important;
-  }
+
+
 
   .ff-nav .nav-item + .nav-item:not(.nodot){
     margin-left: 0px;
   }
+
+  .ff-collapse > .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ff-nav {
+    display: flex;
+  }
+
+  .ff-nav-begin{
+    flex: 8;
+  }
+  .ff-nav-end {
+    flex: 1;
+    justify-content: flex-start;
+  }
+
+
+
+}
+
+
+@include media-breakpoint-up("lg") {
   .ff-nav .nav-item:not(.nodot):not(.last) a:after {
     display: inline-block;
     content: "·";
     padding: 0px 0.5rem ;
   }
+  .ff-collapse > .container {
+    flex-direction: row;
+  }
+  .ff-nav-end {
+    justify-content: flex-end;
+  }
+
 
 }
 
@@ -270,9 +309,7 @@ hr {
   margin-top: -1em;
 }
 
-.collapse.show {
-  display: block;
-}
+
 
 #meshviewer {
   border: 0;
