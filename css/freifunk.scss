@@ -208,7 +208,7 @@ hr {
 }
 
 
-@import 'featherlight.min';
+@import 'lightbox';
 
 @include media-breakpoint-down("sm") {
 //@media (max-width: map-get($grid-breakpoints,"md")) {
