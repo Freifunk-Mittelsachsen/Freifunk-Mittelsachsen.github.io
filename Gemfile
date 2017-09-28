@@ -8,4 +8,4 @@ gem 'github-pages', versions['github-pages']
 gem 'jekyll-paginate'
 gem 'rake'
 
-gem 'jekyll-admin', group: :jekyll_plugins
+#gem 'jekyll-admin', group: :jekyll_plugins
