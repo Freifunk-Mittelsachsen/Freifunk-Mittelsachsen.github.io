@@ -7,7 +7,7 @@ description: "Freifunk Mittelsachsen versorgt Stockcar Rennen des MSC Hartha mit
 tags: [Hartha]
 ---
 
-Wir werden auf dem 16. Stockcar Rennen 2016  des [MSC Hartha](http://www.msc-harta.de) für kostenloses WLAN sorgen.
+Wir werden auf dem 14. Stockcar Rennen 2016  des [MSC Hartha](http://www.msc-harta.de) für kostenloses WLAN sorgen.
 Im Vorfeld wurden schon einige Anstrenungen unternommen, damit das Netz für die mehr als 1000 erwarteten Besucher stabil ist.
 Wir haben 4 Richtfunkstrecken aufgebaut die nach Neuhausen, Meinsberg und zwei nach Hartha Nord führen.
 Auf unserer [Freifunk Mittelsachsen Übersichtskarte](http://karte.freifunk-mittelsachsen.de/meshviewer) kann man den
