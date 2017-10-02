@@ -40,6 +40,12 @@ permalink: /sponsoren/
     </a>
   </li>
 
+  <li>
+    <a title="MiSaxNet" class="nav-link" href="http://www.misaxnet.de/">
+      <img height="70" src="/img/inhalt/logo-misaxnet.svg">
+    </a>
+  </li>
+
 </ul>
 
 ## Danke für die Spenden
