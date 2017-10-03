@@ -1,54 +1,42 @@
 /*!
- * Bootstrap v4.0.0-alpha.6 (https://getbootstrap.com)
+ * Bootstrap v4.0.0-beta (https://getbootstrap.com)
  * Copyright 2011-2017 The Bootstrap Authors
  * Copyright 2011-2017 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-// Core variables and mixins
+@import "bootstrap-v4/functions";
 @import "bootstrap-v4/variables";
 @import "bootstrap-v4/mixins";
-@import "bootstrap-v4/custom";
-
-// Reset and dependencies
-@import "bootstrap-v4/normalize";
+@import "bootstrap-v4/root";
 @import "bootstrap-v4/print";
-
-// Core CSS
 @import "bootstrap-v4/reboot";
 @import "bootstrap-v4/type";
 @import "bootstrap-v4/images";
 @import "bootstrap-v4/code";
 @import "bootstrap-v4/grid";
 @import "bootstrap-v4/tables";
-//@import "bootstrap-v4/forms";
+@import "bootstrap-v4/forms";
 @import "bootstrap-v4/buttons";
-
-// Components
 @import "bootstrap-v4/transitions";
-//@import "bootstrap-v4/dropdown";
-//@import "bootstrap-v4/button-group";
-//@import "bootstrap-v4/input-group";
-//@import "bootstrap-v4/custom-forms";
+@import "bootstrap-v4/dropdown";
+@import "bootstrap-v4/button-group";
+@import "bootstrap-v4/input-group";
+@import "bootstrap-v4/custom-forms";
 @import "bootstrap-v4/nav";
 @import "bootstrap-v4/navbar";
-//@import "bootstrap-v4/card";
-//@import "bootstrap-v4/breadcrumb";
+@import "bootstrap-v4/card";
+@import "bootstrap-v4/breadcrumb";
 @import "bootstrap-v4/pagination";
-//@import "bootstrap-v4/badge";
-//@import "bootstrap-v4/jumbotron";
-//@import "bootstrap-v4/alert";
-//@import "bootstrap-v4/progress";
-//@import "bootstrap-v4/media";
-//@import "bootstrap-v4/list-group";
-//@import "bootstrap-v4/responsive-embed";
-//@import "bootstrap-v4/close";
-
-// Components w/ JavaScript
-//@import "bootstrap-v4/modal";
-//@import "bootstrap-v4/tooltip";
-//@import "bootstrap-v4/popover";
+@import "bootstrap-v4/badge";
+@import "bootstrap-v4/jumbotron";
+@import "bootstrap-v4/alert";
+@import "bootstrap-v4/progress";
+@import "bootstrap-v4/media";
+@import "bootstrap-v4/list-group";
+@import "bootstrap-v4/close";
+@import "bootstrap-v4/modal";
+@import "bootstrap-v4/tooltip";
+@import "bootstrap-v4/popover";
 @import "bootstrap-v4/carousel";
-
-// Utility classes
 @import "bootstrap-v4/utilities";

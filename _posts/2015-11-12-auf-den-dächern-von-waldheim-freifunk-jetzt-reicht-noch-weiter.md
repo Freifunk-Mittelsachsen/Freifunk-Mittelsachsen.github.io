@@ -5,7 +5,7 @@ date: 2015-11-12 19:50:17
 categories: news
 tags: [Waldheim]
 ---
-<figure class="figure pull-right m-l-1">
+<figure class="figure float-right ml-3">
   <img src="/img/lindenplatz1-news/IMG_4302thumb2.jpg" class="img-responsive">
 </figure>
 Heute war ein guter Tag. Wir haben heute einen strategisch guten Standpunkt für das Freifunk Netzwerk in Betrieb nehmen können.

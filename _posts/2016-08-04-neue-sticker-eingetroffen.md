@@ -5,7 +5,7 @@ date: 2016-08-04 09:27:56
 categories: news
 description: "Die Sticker für Freifunk Router und Freifunk WLAN HotSpot sind da"
 ---
-<a class="pull-sm-left m-r-1 m-b-1 d-block" data-featherlight="image" href="/img/sticker_08.2016/sticker.jpg">
+<a class="float-sm-left mr-3 mb-3 d-block" data-featherlight="image" href="/img/sticker_08.2016/sticker.jpg">
   <img src="/img/sticker_08.2016/sticker_thumb.jpg" alt="Freifunk Sticker">
 </a>
 Frisch eingetroffen sind unsere Freifunk Sticker.

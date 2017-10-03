@@ -7,7 +7,7 @@ layout: default
 
 <div class="post-list">
   {% for post in paginator.posts %}
-    <div class="post">
+    <div class="post clearfix">
       <span class="post-meta">
         {% if post.tags.size > 0 %}
           <strong>Für Stadt: {{ post.tags | join: ", " }}</strong>
@@ -15,7 +15,9 @@ layout: default
         Kategorie(n): {{ post.categories }} -->
       </span>
       {% include list_post.html %}
+
     </div>
+    <hr>
   {% endfor %}
 </div>
 
