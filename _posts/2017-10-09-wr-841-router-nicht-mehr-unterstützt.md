@@ -1,13 +1,11 @@
 ---
-title: "WR 841 Router nicht mehr unterstützt"
+title: "TP-Link WR841 Router nicht mehr unterstützt"
 layout: post
 date: 2017-10-09 09:41:40
 categories: news
 description: "WR841 von TP-Link wird nicht mehr unterstützt"
 tags: [Waldheim]
 ---
-
-# WR841 von TP-Link wird nicht mehr unterstützt
 
 Wir unterstützen den beliebten WR841 Router von TP-Link ab Revision 13 nicht mehr.
 Durch eine Änderung in der Hardwarestruktur des Routers können wir keine Firmware mehr für das Gerät anbieten.
