@@ -14,7 +14,6 @@ c/o Nölte / Ernst
 Landsberger Straße 22
 04736 Waldheim
 
-Tel: +491622551602  
 Fragen oder Hilfe bitte per Email (siehe unten) oder Facebook (siehe unten) stellen
 
 **Vertreten durch den Vorstand**
