@@ -9,26 +9,9 @@ order: 50
 ## Impressum
 **Angaben gemäß § 5 TMG**
 
-Freifunk Mittelsachsen e.V.
-c/o Nölte / Ernst  
-Landsberger Straße 22
-04736 Waldheim
+Freifunk Mittelsachsen
 
 Fragen oder Hilfe bitte per Email (siehe unten) oder Facebook (siehe unten) stellen
-
-**Vertreten durch den Vorstand**
-
-- David Nölte (Vorsitzender)
-- Dominic Ernst (stellvertretender Vorsitzender)
-- Detlef Nölte (Kassenwart)
-- Jan Bretschneider (Protokollführer)
-
-[**Unsere Satzung**](/kontakt/satzung_18.01.2016.pdf)
-
-
-**Registereintrag**
-Registergericht: Amtsgericht Chemnitz
-Registernummer: VR 3444
 
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**
@@ -38,20 +21,7 @@ Oliver Dumat
 
 
 
-##### persönl. Kontakt
-
-Kontakt für Presse und Öffentlichkeitsarbeit:  
-**Dominic Ernst** <dominic@freifunk-mittelsachsen.de>
-
-Technische Leitung und Organisation:  
-**David Noelte** <david@freifunk-mittelsachsen.de>  
-Twitter: [@davenoelte](https://twitter.com/davenoelte)  
-
-Betreuung Webseite & Werbung:  
-**Oliver Dumat** <olli@freifunk-mittelsachsen.de>
-
-Betreuung von Freifunk in Leisnig:  
-**Jan Bretschneider** <jan@freifunk-mittelsachsen.de>
+##### Kontakt
 
 Wir sind außerdem erreichbar über:
 
