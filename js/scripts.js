@@ -13,7 +13,7 @@
             document.getElementById('clientcount').innerHTML = xhr.responseText;
         }
       };
-      xhr.open('GET', 'http://karte.freifunk-mittelsachsen.de/meshviewer/client-counter.txt');
+      xhr.open('GET', 'http://karte.freifunk-mittelsachsen.de/client-count.txt');
       xhr.send();
     }
 
