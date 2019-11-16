@@ -25,10 +25,8 @@ Oliver Dumat
 
 Wir sind außerdem erreichbar über:
 
-* <i class="fa fa-twitter"></i> Twitter: [@FreifunkMTL](https://twitter.com/freifunkmtl)
-* <i class="fa fa-facebook"></i> Facebook: [Freifunk Mittelsachsen Facebook Seite](https://www.facebook.com/freifunkmittelsachsen)
 * <i class="fa fa-envelope"></i> Fragen an per Mail [kontakt@freifunk-mittelsachsen.de](mailto://kontakt@freifunk-mittelsachsen.de)
-
+* Telegram Chat [t.me/freifunk_mittelsachsen](https://t.me/freifunk_mittelsachsen)
 
 
 #### Disclaimer – rechtliche Hinweise
