@@ -30,9 +30,6 @@ Wir sind außerdem erreichbar über:
 * <i class="fa fa-envelope"></i> Fragen an per Mail [kontakt@freifunk-mittelsachsen.de](mailto://kontakt@freifunk-mittelsachsen.de)
 
 
-Jabber/XMPP Konferenz:  [freifunkmittelsachsen@conference.freifunk-mittelsachsen.de](xmpp:freifunkmittelsachsen@conference.freifunk-mittelsachsen.de)
- (erreichbar auch von [anderen XMPP/Jabberservern aus](http://xmpp.net))
-
 
 #### Disclaimer – rechtliche Hinweise
 
