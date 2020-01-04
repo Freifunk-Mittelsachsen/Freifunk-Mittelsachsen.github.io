@@ -10,7 +10,6 @@ Bei Freifunk mitzumachen geht so:
 
 * [Einen eigenen Router betreiben](#router-betreiben)
 * [Dein hohes Dach/hohes Gebäude zur Verfügung stellen](#dein-hohes-dachgebude-fr-freifunk-mittelsachsen)
-* [Kosten decken - Spenden](#spenden)
 * [Anleitungsvideos](#videos)
 
 
@@ -38,26 +37,7 @@ richten das mit dir zusammen (oder auch ohne dich ;-)) ein.
 Damit Dein Freifunk-Router mit anderen Freifunk-Routern sprechen kann brauchst Du die aktuelle Firmware für Freifunk deiner Stadt oder Gemeinde. Die kannst du
 hier herunter laden:
 
-- [Firmware für Augustusburg](http://firmware.freifunk-mittelsachsen.de/stable/augustusburg/)
-- [Firmware für Colditz](http://firmware.freifunk-mittelsachsen.de/stable/colditz/)
-- [Firmware für Döbeln](http://firmware.freifunk-mittelsachsen.de/stable/doebeln/)
-- [Firmware für Flöha](http://firmware.freifunk-mittelsachsen.de/stable/floeha/)
-- [Firmware für Geringswalde](http://firmware.freifunk-mittelsachsen.de/stable/geringswalde/)
-- [Firmware für Grimma](http://firmware.freifunk-mittelsachsen.de/stable/grimma/)
-- [Firmware für Großschirma](http://firmware.freifunk-mittelsachsen.de/stable/grossschirma/)
-- [Firmware für Hartha](http://firmware.freifunk-mittelsachsen.de/stable/hartha/)
-- [Firmware für Leisnig](http://firmware.freifunk-mittelsachsen.de/stable/leisnig/)
-- [Firmware für Mittweida](http://firmware.freifunk-mittelsachsen.de/stable/mittweida/)
-- [Firmware für Oschatz](http://firmware.freifunk-mittelsachsen.de/stable/oschatz/)
-- [Firmware für Ostrau](http://firmware.freifunk-mittelsachsen.de/stable/ostrau/)
-- [Firmware für Roßwein](http://firmware.freifunk-mittelsachsen.de/stable/rosswein/)
-- [Firmware für Waldheim](http://firmware.freifunk-mittelsachsen.de/stable/waldheim/)
-- [Firmware für Wermsdorf](http://firmware.freifunk-mittelsachsen.de/stable/wermsdorf/)
-
-
-
-
-
+** Bitte vorerst im Telegram Chat melden (siehe [t.me/freifunk_mittelsachsen](t.me/freifunk_mittelsachsen) ) **
 
 
 **Was soll ich downloaden?**

@@ -10,9 +10,6 @@
 - name: Mitmachen
   url: /mitmachen
 
-- name: Unterstützen
-  url: /spenden
-
 - name: Fragen? Antworten!
   url: /faq
 
