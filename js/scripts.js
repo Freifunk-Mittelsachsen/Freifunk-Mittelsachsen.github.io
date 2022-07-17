@@ -97,7 +97,7 @@ $.expr[':'].external = function(obj){
 };
 
 $('a:external').attr('target', '_blank');
-/*
+
 function freifunkUser() {
   $.getJSON("http://karte.freifunk-mittelsachsen.de/meshviewer/nodes.json", function(data) {
     var clients = 0;
@@ -106,4 +106,4 @@ function freifunkUser() {
     });
     $('#clientcount').empty().text(clients);
   });
-} */
+} 
