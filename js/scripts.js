@@ -102,7 +102,10 @@ function freifunkUser() {
   $.getJSON("https://karte.freifunk-mittelsachsen.de/meshviewer/nodes.json", function(data) {
     var clients = 0;
     $.each(data['nodes'],function(node) {
-      clients = clients + this['statistics']['clients'];
+    	val = this['statistics']['clients'];
+      if(val != undefined) {
+      	clients = clients + this['statistics']['clients'];
+      }
     });
     $('#clientcount').empty().text(clients);
   });
