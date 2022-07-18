@@ -1,5 +1,6 @@
 ;(function(window) {
 
+  /* 
     function freifunkUser() {
       var xhr = new XMLHttpRequest();
       if (!xhr) {
@@ -15,17 +16,9 @@
       };
       //xhr.open('GET', 'http://karte.freifunk-mittelsachsen.de/client-count.txt');
       //xhr.send();
-
-      $.getJSON("https://karte.freifunk-mittelsachsen.de/meshviewer/nodes.json", function(data) {
-        var clients = 0;
-        $.each(data['nodes'],function(node) {
-          clients = clients + this['statistics']['clients'];
-        });
-        $('#clientcount').empty().text(clients);
-      });
     }
-
-    freifunkUser();
+ 
+    freifunkUser(); */
 })(window);
 
 /*!
@@ -105,7 +98,7 @@ $.expr[':'].external = function(obj){
 };
 
 $('a:external').attr('target', '_blank');
-/*
+
 function freifunkUser() {
   $.getJSON("http://karte.freifunk-mittelsachsen.de/meshviewer/nodes.json", function(data) {
     var clients = 0;
@@ -114,4 +107,6 @@ function freifunkUser() {
     });
     $('#clientcount').empty().text(clients);
   });
-} */
+}
+
+freifunkUser();
