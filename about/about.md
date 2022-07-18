@@ -18,7 +18,7 @@ Verfügung stellen.
 
 Ein kurzes Infovideo:
 
-<iframe width="400" height="281" src="https://www.youtube-nocookie.com/embed/2Z12OjnPADA?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="281" src="https://www.youtube.com/embed/2Z12OjnPADA?rel=0" frameborder="0" allowfullscreen></iframe>
 <p>
   <a href="https://vimeo.com/64814620">Freifunk verbindet!</a> from
   <a href="https://vimeo.com/kosmonautensofa">Philipp Seefeldt</a> on
