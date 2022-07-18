@@ -24,8 +24,8 @@ permalink: /sponsoren/
   </li>
 
   <li>
-    <a title="MiSaxNet" class="nav-link" href="http://www.misaxnet.de/">
-      <img height="70" src="/img/inhalt/logo-misaxnet.svg">
+    <a title="Web+Phone Gmbh" class="nav-link" href="http://www.wp-traffic.de/">
+      <img height="70" src="/img/inhalt/wptraffic.png">
     </a>
   </li>
 
