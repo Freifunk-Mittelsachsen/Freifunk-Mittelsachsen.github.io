@@ -13,8 +13,16 @@
             document.getElementById('clientcount').innerHTML = xhr.responseText;
         }
       };
-      xhr.open('GET', 'http://karte.freifunk-mittelsachsen.de/client-count.txt');
-      xhr.send();
+      //xhr.open('GET', 'http://karte.freifunk-mittelsachsen.de/client-count.txt');
+      //xhr.send();
+
+      $.getJSON("https://karte.freifunk-mittelsachsen.de/meshviewer/nodes.json", function(data) {
+        var clients = 0;
+        $.each(data['nodes'],function(node) {
+          clients = clients + this['statistics']['clients'];
+        });
+        $('#clientcount').empty().text(clients);
+      });
     }
 
     freifunkUser();
