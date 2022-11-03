@@ -17,7 +17,7 @@ kommt bei schnelleren Leitungen an seine Leistungsgrenze. Dadurch wird die Gesch
 im Halli Galli einen sogenannten Offloader hingestellt, welcher durch deutlich mehr Prozessorleistung die volle verfügbare
 Bandbreite ausnutzen kann.  
 Es wurden ca. 100m Kabel verlegt und 8 Freifunk Knoten verbaut vom Typ [TP-Link WR1043v3](/mitmachen#details).  
-An dieser Stelle möchten wir Timo Elsner, Jan Bretschneider und David Nölte für die tatkräftige Hilfe bei der Planung
+An dieser Stelle möchten wir Timo, Jan und David für die tatkräftige Hilfe bei der Planung
 und den Ausbau danken.
 
 Nicht unerwähnt wollen wir lassen, dass jeweils Meinsberg und Oschatz ein neuer Freifunk-Knoten online gegangen ist.

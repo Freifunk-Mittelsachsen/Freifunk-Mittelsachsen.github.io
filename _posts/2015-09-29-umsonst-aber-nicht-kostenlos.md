@@ -14,7 +14,7 @@ Wenn unsere Nutzer ihren Internetanschluss zur Verfügung stellen, müssen sie a
 werden um keine rechtlichen Risiken zu tragen. Deshalb wird der Datenverkehr, welcher
 durch Freifunk Nutzer erzeugt wird, verschlüsselt ins Ausland geleitet und erst da ins Internet entlassen.
 Dafür sind einige Server nötig.
-Zur Zeit werden alle diese Kosten vom Initiator von Freifunk Mittelsachsen, David Nölte, alleine getragen.
+Zur Zeit werden alle diese Kosten vom Initiator von Freifunk Mittelsachsen, David, alleine getragen.
 
 ## Wie können die Kosten gedeckt werden?
 

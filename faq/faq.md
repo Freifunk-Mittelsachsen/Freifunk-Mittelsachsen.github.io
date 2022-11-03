@@ -81,7 +81,7 @@ Kein Problem. Die Router kann man im Konfigurationsmodus so einstellen, dass die
 solltest, [melde dich bitte bei uns](/kontakt) und wir helfen dir unkompliziert weiter.
 
 #### Ich habe andere Fragen - Wie kann ich euch erreichen?
-Über unsere [Kontaktseite](/kontakt) kannst Du uns erreichen. Alternativ kannst Du auch direkt David Nölte anschreiben.
+Über unsere [Kontaktseite](/kontakt) kannst Du uns erreichen.
 Auf unserer Webseite ist weiteres Informationsmaterial hinterlegt, vielleicht beantwortet das auch Deine Frage.
 
 
